@@ -1,17 +1,15 @@
 ---
 layout: post
-title:  Was für eine Umwelt- und Klimapolitik schwebt Marcel Dettling vor?
+title:  "Was für eine Umwelt- und Klimapolitik schwebt Marcel Dettling vor?"
 date:   2024-01-01 16:00:00
-description: Ein Kommentar
+description: "Ein Kommentar"
 tags: kantonschwyz politik klimawandel umwelt
 categories: politik
 ---
-Es ist besorgniserregend, dass jemand mit unzureichendem Verständnis für den Klimawandel in einer Kommission für Umwelt und Energie tätig ist. Wieso schreibe ich so etwas? Mir gibt beispielsweise das <a href="https://www.bote.ch/nachrichten/schwyz/klimawandel-ich-bestreite-dass-der-mensch-alleine-schuld-sein-soll-art-1115389">Interview mit dem Boten der Urschweiz</a> von 2018 zu denken. Auf die Frage, ob die Zunahme von Wetterextremen auf den menschgemachten Klimawandel zurückzuführen sind, kommt die Antwort:
+Es ist besorgniserregend, dass jemand mit unzureichendem Verständnis für den Klimawandel in einer Kommission für Umwelt und Energie tätig ist. Wieso schreibe ich so etwas? Mir gibt beispielsweise das [Interview mit dem Boten der Urschweiz](https://www.bote.ch/nachrichten/schwyz/klimawandel-ich-bestreite-dass-der-mensch-alleine-schuld-sein-soll-art-1115389) von 2018 zu denken. Auf die Frage, ob die Zunahme von Wetterextremen auf den menschgemachten Klimawandel zurückzuführen sind, kommt die Antwort:
 
-<blockquote>
-    Ich bezweifle das. Früher gab es kalte Perioden. Die halbe Welt war mit Eis bedeckt. Schon im 15. und 16. Jahrhundert gab es aber auch Hitzewellen, wie wir sie jetzt erleben.
-    —Marcel Dettling
-</blockquote>
+> Ich bezweifle das. Früher gab es kalte Perioden. Die halbe Welt war mit Eis bedeckt. Schon im 15. und 16. Jahrhundert gab es aber auch Hitzewellen, wie wir sie jetzt erleben.
+—Marcel Dettling
 
 Mein Kommentar dazu:
 
