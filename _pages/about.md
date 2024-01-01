@@ -19,9 +19,11 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Willkommen auf meiner Webseite. Mein beruflicher Schwerpunkt ist die naturwissenschaftliche Forschung im Bereich Geweberegeneration. Ich habe einen Bachelor of Science in Biophysik, einen Master of Science in Physik und einen Dr. sc. ETH in computergestützter Biologie. Weitere Interessensschwerpunkte / Herzensanliegen sind die zukunftssichernde Energiewende, die Abkehr von Umweltbelastung und der Schutz von wilder Fauna & Flora.
+Willkommen auf meiner Webseite / welcome to my website. 
 
-Welcome to my website. My professional focus is scientific research in the field of tissue regeneration. I have a Bachelor of Science in Biophysics, a Master of Science in Physics and a Dr. sc. ETH in Computational Biology. In addition, I am passionate about moving our energy system away from fossil fuels, eliminating pollution and protecting wildlife.
+Mein beruflicher Schwerpunkt ist die naturwissenschaftliche Forschung im Bereich Geweberegeneration. Ich habe einen Bachelor of Science in Biophysik, einen Master of Science in Physik und einen Dr. sc. ETH in computergestützter Biologie. Ein Herzensanliegen ist mir eine sichere Zukunft für alles Leben auf der Erde und somit eine intelligente Energiewende, unsere Abkehr von Umweltbelastung und der Schutz von wilder Fauna & Flora.
+
+My professional focus is scientific research in the field of tissue regeneration. I have a BSc in Biophysics, a MSc in Physics and a PhD in Computational Biology. In addition, I am passionate about moving our energy system away from fossil fuels, eliminating pollution and protecting wildlife.
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
