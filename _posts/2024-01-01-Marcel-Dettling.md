@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Was für eine Umwelt- und Klimapolitik schwebt Marcel Dettling vor?
-date:   2024-01-01 16:40:16
+date:   2024-01-01 16:00:00
 description: 
 tags: KantonSchwyz Politik Klimawandel
 categories: 
