@@ -19,7 +19,9 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Mein Name ist Marco Meer. Ich habe einen Bachelor of Science in Biophysik, einen Master of Science in Physik und einen Dr. sc. ETH in computergestützter Biologie. Meine Interessensschwerpunkte sind Forschung zu regenerativer Biologie und Medizin, eine zukunftssichernde Energiewende und die Abkehr von Umweltbelastung.
+Willkommen auf meiner Webseite, mein Name ist Marco Meer. Mein beruflicher Schwerpunkt ist die naturwissenschaftliche Forschung im Bereich Geweberegeneration. Ich habe einen Bachelor of Science in Biophysik, einen Master of Science in Physik und einen Dr. sc. ETH in computergestützter Biologie. Weitere Interessensschwerpunkte / Herzensanliegen sind die zukunftssichernde Energiewende, die Abkehr von Umweltbelastung und der Schutz von wilder Fauna & Flora.
+
+Welcome to my website, my name is Marco Meer. My professional focus is scientific research in the field of tissue regeneration. I have a Bachelor of Science in Biophysics, a Master of Science in Physics and a Dr. sc. ETH in Computational Biology. In addition, I am passionate about moving our energy system away from fossil fuels, eliminating pollution and protecting wildlife.
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
