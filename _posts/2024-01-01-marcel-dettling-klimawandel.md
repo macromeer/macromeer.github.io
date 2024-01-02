@@ -6,7 +6,7 @@ description: "Ein Kommentar"
 tags: kantonschwyz klimawandel umwelt
 categories: politik
 ---
-Es ist besorgniserregend, dass jemand mit unzureichendem Verständnis für den Klimawandel in einer Kommission für Umwelt und Energie tätig war. Wieso schreibe ich so etwas? Mir gibt beispielsweise das [Interview mit dem Boten der Urschweiz](https://www.bote.ch/nachrichten/schwyz/klimawandel-ich-bestreite-dass-der-mensch-alleine-schuld-sein-soll-art-1115389) von 2018 zu denken. Auf die Frage, ob die Zunahme von Wetterextremen auf den menschgemachten Klimawandel zurückzuführen ist, kommt die Antwort:
+Es ist besorgniserregend, dass jemand mit unzureichendem Verständnis für den Klimawandel in der [Kommission für Umwelt und Energie des Nationalrates](https://www.parlament.ch/Poly/Adressen_RM/kommmitglieder_nr_urek.pdf) tätig ist. Wieso schreibe ich so etwas? Mir gibt beispielsweise das [Interview mit dem Boten der Urschweiz](https://www.bote.ch/nachrichten/schwyz/klimawandel-ich-bestreite-dass-der-mensch-alleine-schuld-sein-soll-art-1115389) von 2018 zu denken. Auf die Frage, ob die Zunahme von Wetterextremen auf den menschgemachten Klimawandel zurückzuführen ist, kommt die Antwort:
 
 > Ich bezweifle das. Früher gab es kalte Perioden. Die halbe Welt war mit Eis bedeckt. Schon im 15. und 16. Jahrhundert gab es aber auch Hitzewellen, wie wir sie jetzt erleben.
 —Marcel Dettling
