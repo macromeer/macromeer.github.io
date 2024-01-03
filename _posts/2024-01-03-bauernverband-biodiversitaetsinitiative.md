@@ -22,7 +22,7 @@ Die [Biodiversitätsinitiative gibt dazu an](https://www.biodiversitaetsinitiati
 
 Um auf die Aussage des SBV zurückzukommen: Ist die bestehende Gesetzeslage ausreichend, um dieser dramatischen Lage zu begegnen?
 
-Wissenschaft und Forschung, also die Akademie der Naturwissenschaften Schweiz und insbesondere die Eidg. Forschungsanstalt für Wald, Schnee und Landschaft [haben sich zuletzt für den indirekten Gegenvorschlag zur Biodiversitätsinitiative eingesetzt](https://scnat.ch/de/uuid/i/8a3c5cfe-b03e-5320-8514-10ad79eaf298-%C2%ABEin_konstruktiver_Kompromiss_der_Natur_Raum_geben_und_den_Energieausbau_erm%C3%B6glichen%C2%BB), welcher jedoch [vom Ständerat erneut abgelehnt](https://www.nzz.ch/schweiz/staenderat-spricht-sich-gegen-den-indirekten-gegenvorschlag-zur-biodiversitaetsinitiative-aus-ld.1769403) wurde.
+Wissenschaft und Forschung, also die Akademie der Naturwissenschaften Schweiz und insbesondere die Eidg. Forschungsanstalt für Wald, Schnee und Landschaft **[haben sich zuletzt für den indirekten Gegenvorschlag zur Biodiversitätsinitiative eingesetzt](https://scnat.ch/de/uuid/i/8a3c5cfe-b03e-5320-8514-10ad79eaf298-%C2%ABEin_konstruktiver_Kompromiss_der_Natur_Raum_geben_und_den_Energieausbau_erm%C3%B6glichen%C2%BB)**, welcher jedoch [vom Ständerat erneut abgelehnt](https://www.nzz.ch/schweiz/staenderat-spricht-sich-gegen-den-indirekten-gegenvorschlag-zur-biodiversitaetsinitiative-aus-ld.1769403) wurde.
 
 Dies ist die Ausgangslage für die kommende Volksabstimmung. Die Wissenschaft weist darauf hin, dass bestehende Regelungen nicht ausreichen, um unser Oekosystem vor drohenden und bestehenden Gefahren zu schützen, da sie den indirekten Gegenvorschlag befürwortete.
 
