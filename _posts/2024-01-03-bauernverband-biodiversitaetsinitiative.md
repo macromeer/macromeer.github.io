@@ -11,7 +11,7 @@ Der SBV stellt in seiner heutigen Medienmitteilung fest, [dass die Artenvielfalt
 
 **Es stellt sich dann die Frage, ob dies ausreicht.**
 
-Die Biodiversitätsinitiative gibt dazu an, dass das  Oekosystem in der Schweiz als Lebens- und Wirtschaftsgrundlage bedroht ist:
+Die Biodiversitätsinitiative gibt dazu an](https://www.biodiversitaetsinitiative.ch/biodiversitatskrise/), dass das  Oeko[system in der Schweiz als Lebens- und Wirtschaftsgrundlage bedroht ist:
 
 - 1/5 der Landesfläche an artenreichen Lebensräumen wie Moore, Trockenwiesen und Auen gingen seit 1900 verloren. - 1/2 aller verbleibenden Lebensräume gelten als gefährdet. 
 - 1/3 aller Tier- und Pflanzenarten in der Schweiz gelten als gefährdet oder sind bereits ausgestorben. 
