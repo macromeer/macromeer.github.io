@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Biodiversitätsinitiative: Hat der Bauernverband recht?"
-date: 2024-01-01 16:00:00+0100
+date: 2024-01-03 16:00:00+0100
 description: "Ein Kommentar"
 tags: schweiz biodiversitaet umwelt bauernverband subventionen import lebensmittel direktverkauf
 categories: politik
