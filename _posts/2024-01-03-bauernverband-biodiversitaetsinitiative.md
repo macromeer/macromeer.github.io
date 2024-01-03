@@ -16,7 +16,7 @@ Die [Biodiversitätsinitiative gibt dazu an](https://www.biodiversitaetsinitiati
 - 1/5 der Landesfläche an artenreichen Lebensräumen wie Moore, Trockenwiesen und Auen gingen seit 1900 verloren.
 - 1/2 aller verbleibenden Lebensräume gelten als gefährdet. 
 - 1/3 aller Tier- und Pflanzenarten in der Schweiz gelten als gefährdet oder sind bereits ausgestorben. 
-- 1/4 der Fliessgewässer ist stark verbaut.
+- 1/4 der Fliessgewässer sind stark verbaut.
 - Bestehende Schutzgebiete sind durch unüberwindbare Hindernisse stark fragmentiert und ungenügend vernetzt.
 - Tiere und Pflanzen in diesen Schutzgebieten sind durch mehrere Faktoren bedroht: Verschmutzung, Ueberduengung, Erderwärmung, invasive Arten.
 
