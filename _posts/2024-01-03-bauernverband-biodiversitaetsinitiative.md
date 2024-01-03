@@ -26,5 +26,6 @@ Wissenschaft und Forschung, also die Akademie der Naturwissenschaften Schweiz un
 
 Dies ist die Ausgangslage für die kommende Volksabstimmung. Die Wissenschaft weist darauf hin, dass bestehende Regelungen nicht ausreichen, um unser Oekosystem vor drohenden und bestehenden Gefahren zu schützen, da sie den indirekten Gegenvorschlag befürwortete.
 
-Die Volksinitiative auf Teilrevision der Bundesverfassung:
+
+Hier noch die Teilrevision der Bundesverfassung im Sinne der Biodiversitätsinitiative im Entwurf:
 [Eidgenössische Volksinitiative 'Für die Zukunft unserer Natur und Landschaft (Biodiversitätsinitiative)'](https://www.bk.admin.ch/ch/d/pore/vi/vis494t.html)
