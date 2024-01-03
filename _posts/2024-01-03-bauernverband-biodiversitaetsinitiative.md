@@ -18,7 +18,7 @@ Die [Biodiversitätsinitiative gibt dazu an](https://www.biodiversitaetsinitiati
 - 1/3 aller Tier- und Pflanzenarten in der Schweiz gelten als gefährdet oder sind bereits ausgestorben. 
 - 1/4 der Fliessgewässer sind stark verbaut.
 - Bestehende Schutzgebiete sind durch unüberwindbare Hindernisse stark fragmentiert und ungenügend vernetzt.
-- Tiere und Pflanzen in diesen Schutzgebieten sind durch mehrere Faktoren bedroht: Verschmutzung, Ueberduengung, Erderwärmung, invasive Arten.
+- Tiere und Pflanzen in diesen Schutzgebieten sind durch mehrere Faktoren bedroht: Verschmutzung, Überdüngung, Erderwärmung, invasive Arten.
 
 Um auf die Aussage des SBV zurückzukommen: Ist die bestehende Gesetzeslage ausreichend, um dieser dramatischen Lage zu begegnen?
 
