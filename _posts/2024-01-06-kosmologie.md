@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Gedanken zu Kosmologie"
+title:  "Gedanken zur Kosmologie"
 date: 2024-01-03 16:00:00+0100
 description: "Ein Kommentar"
 tags: kosmologie universum vielewelten parallelwelten urknall zyklus materie energie
-categories: politik
+categories: kosmologie
 ---
 
 Das Buch "Die Welt an sich" von Ulf Danielsson hat mich dazu angeregt, über die Kosmologie und unsere heutige Vorstellung des Universums nachzudenken. Die Hypothese eines Multiversums mit vielen Parallelwelten, die bereits im Altertum aufgestellt wurde und insbesondere durch die Quantenüberlagerung (Koexistenz unterschiedlicher Möglichkeiten) inspiriert ist, erscheint mir abwegig. Die Vorstellung, dass alle möglichen Zustände (kürzer: Möglichkeiten) parallel existieren und die dazu nötige Materie und Energie für jedes Paralleluniversum irgendwo einen Raum aufspannen müsste, wirft viele Fragen auf. 
