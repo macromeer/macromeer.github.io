@@ -7,7 +7,7 @@ tags: kosmologie universum parallelwelten urknall zyklus
 categories: kosmologie
 ---
 
-Das Buch "Die Welt an sich" von Ulf Danielsson hat mich dazu angeregt, über die Kosmologie, also wie wir uns das Universum vorstellen, nachzudenken. Die Hypothese eines Multiversums mit vielen Parallelwelten, die bereits im Altertum aufgestellt wurde und insbesondere durch die Quantenüberlagerung (Koexistenz unterschiedlicher Möglichkeiten) inspiriert ist, erscheint mir abwegig. Die Vorstellung, dass alle möglichen Zustände (kürzer: Möglichkeiten) parallel existieren und die dazu nötige Materie und Energie für jedes Paralleluniversum irgendwo einen Raum aufspannen müsste, wirft viele Fragen auf. 
+Das Buch "Die Welt an sich" von Ulf Danielsson hat mich dazu angeregt, über die Kosmologie, also die Vorstellung vom Universum, nachzudenken. Die Hypothese eines Multiversums mit vielen Parallelwelten, die bereits im Altertum aufgestellt wurde und insbesondere durch die Quantenüberlagerung (Koexistenz unterschiedlicher Möglichkeiten) inspiriert ist, erscheint mir abwegig. Die Vorstellung, dass alle möglichen Zustände (kürzer: Möglichkeiten) parallel existieren und die dazu nötige Materie und Energie für jedes Paralleluniversum irgendwo einen Raum aufspannen müsste, wirft viele Fragen auf. 
 
 **Welche Struktur soll ein Multiversum haben?**
 
