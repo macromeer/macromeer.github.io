@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Gedanken zur Kosmologie"
-date: 2024-01-03 16:00:00+0100
+date: 2024-01-06 16:00:00+0100
 description: "Ein Kommentar"
 tags: kosmologie universum parallelwelten urknall zyklus 
 categories: kosmologie
