@@ -17,7 +17,7 @@ Evidenz für den Urknall selbst als auch für die Ausdehnung unseres Universums 
 
 Interessant wird es, sich vorzustellen, was beim Kollaps des Elternuniversums mit dessen Information passiert - welchen Einfluss hätten dabei Materie-Energie-Konversion und Quanteneffekte? Könnte also das Elternuniversum analog zur epigenetischen Merkmalsübertragung einen Einfluss auf das nachfolgende Universum ausüben, wenn Information zwischen aufeinanderfolgenden Welten erhalten bleibt? 
 
-Es ist dann auch eine Evolution des Universums vorstellbar, dass sich in der Aufeinanderfolge vieler Welten die Naturkonstanten, die allgemeinen Eigenschaften von Raum, Zeit und physikalischen Vorgängen, derart ändern konnten, dass ein stabiles Universum entsteht, wie wir es heute beobachten. 
+Es ist dann auch vorstellbar, dass sich im Verlauf einer Evolution des Universums die Naturkonstanten, die allgemeinen Eigenschaften von Raum, Zeit und physikalischen Vorgängen, so verändern, dass ein stabiles Universum entsteht, wie wir es heute beobachten können.
 
 Der ständige Wandel ("Panta rhei", Heraklit) ist letztlich, ebenso wie die Orientierung nach zyklischen Phänomenen, auch unsere irdische Erfahrung.
 
