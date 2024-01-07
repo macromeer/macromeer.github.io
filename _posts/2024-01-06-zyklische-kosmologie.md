@@ -19,7 +19,7 @@ Interessant wird es, sich vorzustellen, was beim Kollaps des Elternuniversums mi
 
 Es ist dann auch vorstellbar, dass sich im Verlauf einer Evolution des Universums die Naturkonstanten, die allgemeinen Eigenschaften von Raum, Zeit und physikalischen Vorgängen, so verändern, dass ein stabiles Universum entsteht, wie wir es heute beobachten können.
 
-Der ständige Wandel ("Panta rhei", Heraklit) ist letztlich, ebenso wie die Orientierung nach zyklischen Phänomenen, auch unsere irdische Erfahrung.
+Der ständige Wandel ("Panta rhei", Heraklit) ist letztlich auch, ebenso wie die Orientierung nach zyklischen Phänomenen, unsere irdische Erfahrung.
 
 
 
