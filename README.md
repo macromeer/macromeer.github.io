@@ -1,6 +1,6 @@
 # [ORCID: 0000-0003-4501-6121](https://orcid.org/0000-0003-4501-6121)
 
-Early postdoc with expertise in computational biophysics (cell- to tissue level), image analysis, and modeling. Specializing in biological tissue regeneration. Proven ability to develop and apply computational frameworks to elucidate biological mechanisms. Currently studying cell behavior in injured zebrafish hearts to understand the tissue regenerative process.
+Early postdoc with expertise in computational biophysics (cell- to tissue level), image analysis, and modeling. Specializing in biological tissue regeneration. Proven ability to develop and apply computational approaches to elucidate biological mechanisms. Currently studying cell behavior in injured zebrafish hearts to understand the tissue regenerative process.
 
 ## **Experience**
 - **Postdoc** (2023 - Present)  
