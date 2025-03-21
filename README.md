@@ -5,8 +5,8 @@ Early postdoc with expertise in computational biophysics (cell- to tissue level)
 ## **Experience**
 - **Postdoc** (2023 - Present)  
   Universität Bern, Institute of Anatomy, Developmental Biology and Regeneration Unit
-    * Studying cell behavior in injured zebrafish hearts
-    * Image acquisition
+    * Studying cell behavior in injured zebrafish hearts (live imaging)
+    * Image acquisition (WSI, spinning disc)
     * Developing image analysis pipelines for microscopy data (Python)
 
 - **PhD Student** (2017 - 2022)  
