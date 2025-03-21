@@ -20,7 +20,8 @@ Early postdoc with expertise in computational biophysics (cell- to tissue level)
 - **Bachelor, Biophysics**, Goethe University Frankfurt (2013)
 
 ## **Skills**
-*   Computational Modeling (C++)
+*   Computational Modeling (C++, Python)
+*   Deep Learning (PyTorch)
 *   Image Data Analysis (Python, R)
 *   Developmental and Regenerative Biology
 *   Mechanistic Elucidation
