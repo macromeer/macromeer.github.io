@@ -1,6 +1,6 @@
-# ORCID: [0000-0003-4501-6121](https://orcid.org/0000-0003-4501-6121) / Github: [macromeer](https://github.com/macromeer)
+ORCID: [0000-0003-4501-6121](https://orcid.org/0000-0003-4501-6121) | Github :octocat: [macromeer](https://github.com/macromeer) | Bluesky 🦋 [@macromeer.github.io](https://bsky.app/profile/macromeer.github.io)
 
-Early postdoc with expertise in computational biophysics (cell- to tissue level), image analysis, and modeling. Specializing in biological tissue regeneration. Proven ability to develop and apply computational approaches to elucidate biological mechanisms. Currently studying cell behavior in injured zebrafish hearts to understand the tissue regenerative process.
+Welcome to my personal website. I am an early postdoc with expertise in computational biophysics (cell- to tissue level), image analysis, and modeling. Specializing in biological tissue regeneration. Proven ability to develop and apply computational approaches to elucidate biological mechanisms. Currently studying cell behavior in injured zebrafish hearts to understand the tissue regenerative process.
 
 ## **Experience**
 - **Postdoc** (2023 - Present)  
