@@ -27,10 +27,10 @@ Welcome to my website! I'm an early-career postdoctoral researcher specialized i
 
 ## **Skills**
 
-*   Computational Modeling [[C++ (work)](https://git.bsse.ethz.ch/iber/Publications/2022_Meer_NPC_Condensation)]
-*   Data Analysis [[Julia (certification)](https://coursera.org/share/a62d80f195c50fd8d7c7b0ece3bb2279), [Python (work)](https://github.com/macromeer), [R (certification)](https://courses.edx.org/certificates/bfb8efbaa75d4de3afa94f8599671b6d)]
-*   Data Visualization [[R (work)](https://github.com/macromeer/scifig_plot_examples_R), [R (certification)](https://courses.edx.org/certificates/f4a5d4042f9c45a4892559d431aa4b2e)]
-*   Deep Learning [[PyTorch (certification)](https://github.com/macromeer/macromeer.github.io/blob/main/certificates/Bern_DL_WinterSchool_2024_Certificate_MarcoMeer.pdf)]
+*   Computational Modeling | C++ [(work)](https://git.bsse.ethz.ch/iber/Publications/2022_Meer_NPC_Condensation) 
+*   Data Analysis | Julia [(certification)](https://coursera.org/share/a62d80f195c50fd8d7c7b0ece3bb2279) , Python [(work)](https://github.com/macromeer) , R [(certification)](https://courses.edx.org/certificates/bfb8efbaa75d4de3afa94f8599671b6d) 
+*   Data Visualization | R [(work)](https://github.com/macromeer/scifig_plot_examples_R) , [(certification)](https://courses.edx.org/certificates/f4a5d4042f9c45a4892559d431aa4b2e)
+*   Deep Learning | PyTorch [(certification)](https://github.com/macromeer/macromeer.github.io/blob/main/certificates/Bern_DL_WinterSchool_2024_Certificate_MarcoMeer.pdf)
 
 ## **Recent Work**
 
