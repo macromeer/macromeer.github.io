@@ -1,6 +1,6 @@
 ORCID: [0000-0003-4501-6121](https://orcid.org/0000-0003-4501-6121) | Github profile: [macromeer](https://github.com/macromeer) | Bluesky profile: [@macromeer.github.io](https://bsky.app/profile/macromeer.github.io) 🦋
 
-Welcome to my website! I'm an early-career postdoctoral researcher specialized in data-driven mechanistic elucidation of cellular coordination of biological tissue processes. My expertise is based in computational analysis and modeling, with a focus on image analysis. Currently, I'm investigating cell behavior in injured zebrafish hearts to gain insights into the tissue regenerative process. I develop and apply computational approaches to elucidate these biological processes, aiming to contribute to advancements in regenerative biology.
+Welcome to my website! I'm an early-career postdoctoral researcher specialized in data-driven mechanistic elucidation of the cellular coordination of biological tissue processes. My expertise is based in computational analysis and modeling, with a focus on image analysis. Currently, I'm investigating cell behavior in injured zebrafish hearts to gain insights into the tissue regenerative process. I develop and apply computational approaches to elucidate these biological processes, aiming to contribute to advancements in regenerative biology.
 
 ## **Experience**
 - **Postdoc** (2023 - Present)
