@@ -4,7 +4,7 @@ ORCID: [0000-0003-4501-6121](https://orcid.org/0000-0003-4501-6121) | Github pro
 
 ## 🌐 Welcome to My Website! 
 
-I'm an early-career postdoctoral researcher specializing in data-driven mechanistic elucidation of the cellular coordination of biological tissue processes. My expertise lies in computational analysis and modeling, with a focus on microscopy image processing. Currently, I'm investigating cell behavior in injured zebrafish hearts to gain insights into the tissue regenerative process 🐠❤️.
+I'm an early-career postdoctoral researcher specializing in data-driven mechanistic elucidation of the cellular coordination of biological tissue processes. My expertise lies in computational analysis and modeling, with a focus on microscopy image processing. Currently, I'm investigating cell behavior in injured zebrafish hearts to gain insights into the tissue regenerative process. 🐠❤️
 
 ## **Experience**
 - **Postdoc** (2023 - Present) 
@@ -19,7 +19,6 @@ I'm an early-career postdoctoral researcher specializing in data-driven mechanis
   🏛️🇨🇭 ETH Zürich, Department of Biosystems Science and Engineering 
   
     * Developed computational model of mesenchymal cell migration during early kidney morphogenesis 🦠🔍 
-      
     * Created a mechanical tissue model of epithelial organization ⚙️
 
 ## **Education**
