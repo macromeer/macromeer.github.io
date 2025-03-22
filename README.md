@@ -1,32 +1,32 @@
-ORCID: [0000-0003-4501-6121](https://orcid.org/0000-0003-4501-6121) | Github profile: [macromeer](https://github.com/macromeer) | Bluesky profile: [@macromeer.github.io](https://bsky.app/profile/macromeer.github.io) 🦋
+ORCID: [0000-0003-4501-6121](https://orcid.org/0000-0003-4501-6121) | Github profile: [macromeer](https://github.com/macromeer) | Bluesky profile: [@macromeer.github.io](https://bsky.app/profile/macromeer.github.io) 
 
 
 
-## Welcome to My Website! 🌐
+## 🌐 Welcome to My Website! 
 
 I'm an early-career postdoctoral researcher specializing in data-driven mechanistic elucidation of the cellular coordination of biological tissue processes. My expertise lies in computational analysis and modeling, with a focus on microscopy image processing. Currently, I'm investigating cell behavior in injured zebrafish hearts to gain insights into the tissue regenerative process 🐠❤️.
 
 ## **Experience**
-- **Postdoc** (2023 - Present) 📆
+- **Postdoc** (2023 - Present) 
   
-  Universität Bern, Institute of Anatomy, Developmental Biology and Regeneration Unit 🐻🇨🇭
+  🐻🇨🇭 Universität Bern, Institute of Anatomy, Developmental Biology and Regeneration Unit 
   
     * Studying cell behavior in injured zebrafish hearts (live imaging) 🫀📹
     * Developing image analysis pipelines for microscopy data 📸🖥️
 
 - **PhD Student** (2017 - 2022) 🎓
 
-  ETH Zürich, Department of Biosystems Science and Engineering 🏛️🇨🇭
+  🏛️🇨🇭 ETH Zürich, Department of Biosystems Science and Engineering 
   
     * Developed computational model of mesenchymal cell migration during early kidney morphogenesis 🦠🔍 
       
-    * Created a mechanical tissue model of epithelial organization ⚙️🗝️
+    * Created a mechanical tissue model of epithelial organization ⚙️
 
 ## **Education**
 
-*   Doctor of Science | Computational Biology | ETH Zürich '22 🎓
-*   Master of Science | Physics | Heidelberg University '16 📚
-*   Bachelor of Science | Biophysics | Goethe University Frankfurt '13 🔬
+*   🎓 Doctor of Science | Computational Biology | ETH Zürich '22 
+*   📚 Master of Science | Physics | Heidelberg University '16 
+*   ✨ Bachelor of Science | Biophysics | Goethe University Frankfurt '13 
 
 ## **Skills**
 
