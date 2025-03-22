@@ -18,9 +18,9 @@ I'm an early-career postdoctoral researcher specializing in data-driven mechanis
 
   ETH Zürich, Department of Biosystems Science and Engineering 🏛️🇨🇭
   
-    * Developed computational model to elucidate mechanism of mesenchymal cell migration during early kidney development 🦠🔍 
+    * Developed computational model of mesenchymal cell migration during early kidney morphogenesis 🦠🔍 
       
-    * Created a mechanical tissue model to explain the mechanistic basis of epithelial organization ⚙️🗝️
+    * Created a mechanical tissue model of epithelial organization ⚙️🗝️
 
 ## **Education**
 
