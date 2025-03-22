@@ -21,10 +21,9 @@ Welcome to my website! I'm an early-career postdoctoral researcher specialized i
 
 ## **Education**
 
-- **PhD, Computational Biology**, ETH Zürich (2022)
-- **Master, Physics**, Heidelberg University (2016)
-- **Bachelor, Biophysics**, Goethe University Frankfurt (2013)
-
+- Doctor of Science | Computational Biology | ETH Zürich '22
+- Master of Science in Physics | Heidelberg University '16
+- Bachelor of Science in Biophysics | Goethe University Frankfurt '13
 ## **Skills**
 
 *   Computational Modeling | C++ [(work)](https://git.bsse.ethz.ch/iber/Publications/2022_Meer_NPC_Condensation) 
