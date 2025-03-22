@@ -30,7 +30,7 @@ Welcome to my personal website. I am an early postdoc with expertise in computat
 *   Computational Modeling 
 *   Image Data Analysis 
 *   Deep Learning
-*   C++, Julia, Python, R
+*   [C++](https://git.bsse.ethz.ch/iber/Publications/2022_Meer_NPC_Condensation), [Julia](https://coursera.org/share/a62d80f195c50fd8d7c7b0ece3bb2279), [Python](https://github.com/macromeer), [R](https://courses.edx.org/certificates/bfb8efbaa75d4de3afa94f8599671b6d)
 
 ## **Recent Work**
 
