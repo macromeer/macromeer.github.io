@@ -2,9 +2,10 @@ ORCID: [0000-0003-4501-6121](https://orcid.org/0000-0003-4501-6121) | Github pro
 
 
 
-## 🌐 Welcome to My Website! 
+## Welcome to My Website! 🌐  
 
-I'm an early-career postdoctoral researcher specializing in data-driven mechanistic elucidation of the cellular coordination of biological tissue processes. My expertise lies in computational analysis and modeling, with a focus on microscopy image processing. Currently, I'm investigating cell behavior in injured zebrafish hearts to gain insights into the tissue regenerative process. 🐠❤️
+I am an early-career postdoctoral researcher focused on the quantitative analysis of tissue-level biological processes, with expertise in computational modeling of intercellular coordination mechanisms and advanced digital image analysis of microscopy data. Currently, I am analyzing cellular dynamics in damaged cardiac tissue to uncover cellular mechanisms of zebrafish heart regeneration. 🔬🖥️🐟❤️ 
+
 
 ## **Experience**
 - **Postdoc** (2023 - Present) 
