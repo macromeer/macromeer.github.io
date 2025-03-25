@@ -25,12 +25,14 @@ I am an early-career postdoctoral researcher focused on the quantitative analysi
 *   Bachelor of Science (Biophysics) at Goethe University Frankfurt '13 
 
 ## **Skills**
-| Skill                    | Language | Proof                                                                                                                                     
-| :------------------------ | :-------- | :----------------------------------------------------------------------------------------------------------------------------------------- 
-| **Computational Modeling** | C++      | [work](https://git.bsse.ethz.ch/iber/Publications/2022_Meer_NPC_Condensation)                                                         
-| **Data Analysis**          | Julia, Python, R   | [Julia certification](https://coursera.org/share/a62d80f195c50fd8d7c7b0ece3bb2279), [Python work](https://github.com/macromeer), [R certification](https://courses.edx.org/certificates/bfb8efbaa75d4de3afa94f8599671b6d) 
-| **Deep Learning**          | Python (PyTorch)  | [certification](https://github.com/macromeer/macromeer.github.io/blob/main/certificates/Bern_DL_WinterSchool_2024_Certificate_MarcoMeer.pdf) 
-| **Data Visualization**     | R        | [R work](https://github.com/macromeer/scifig_plot_examples_R), [R certification](https://courses.edx.org/certificates/f4a5d4042f9c45a4892559d431aa4b2e)               |
+
+| Skill                     | Language           | Proof                                                                                                                                     |
+|:--------------------------|:-------------------|:------------------------------------------------------------------------------------------------------------------------------------------|
+| **Computational Modeling**| C++                | [work](https://git.bsse.ethz.ch/iber/Publications/2022_Meer_NPC_Condensation)                                                             |
+| **Data Analysis**         | Julia, Python, R   | [Julia certification](https://coursera.org/share/a62d80f195c50fd8d7c7b0ece3bb2279), [Python work](https://github.com/macromeer), [R certification](https://courses.edx.org/certificates/bfb8efbaa75d4de3afa94f8599671b6d) |
+| **Deep Learning**         | Python (PyTorch)   | [certification](https://github.com/macromeer/macromeer.github.io/blob/main/certificates/Bern_DL_WinterSchool_2024_Certificate_MarcoMeer.pdf) |
+| **Data Visualization**    | R                  | [R work](https://github.com/macromeer/scifig_plot_examples_R), [R certification](https://courses.edx.org/certificates/f4a5d4042f9c45a4892559d431aa4b2e) |
+
 
 
 ## **Recent Work**
