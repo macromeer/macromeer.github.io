@@ -25,7 +25,7 @@ I am an early-career postdoctoral researcher focused on the quantitative analysi
 *   Bachelor of Science (Biophysics) at Goethe University Frankfurt '13 
 
 ## **Skills**
-| Skill                    | Language | Proof                                                                                                                                     |
+| Skill                    | Language | Proof                                                                                                                                     
 | :------------------------ | :-------- | :----------------------------------------------------------------------------------------------------------------------------------------- |
 | **Computational Modeling** | C++      | [work](https://git.bsse.ethz.ch/iber/Publications/2022_Meer_NPC_Condensation)                                                         |
 | **Data Analysis**          | Julia, Python, R   | [Julia certification](https://coursera.org/share/a62d80f195c50fd8d7c7b0ece3bb2279), [Python work](https://github.com/macromeer), [R certification](https://courses.edx.org/certificates/bfb8efbaa75d4de3afa94f8599671b6d) |
