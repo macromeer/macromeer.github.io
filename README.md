@@ -22,6 +22,9 @@ University of Bern, Institute of Anatomy, Developmental Biology and Regeneration
 * **Multi-Modal Imaging**: Analyzed data from confocal and light sheet microscopy to quantify cellular behaviors during tissue regeneration
 * **Software Development**: Developed and maintained open-source image analysis tools (e.g., T-MIDAS and napari-tmidas plugin) for reproducible biological image processing workflows
 * **Interdisciplinary Collaboration**: Worked with biologists and clinicians to translate imaging insights into mechanistic understanding of cardiac regeneration
+* **Teaching**:
+  * 2025: Introduction to image processing ([MIC Training: Light Sheet Microscopy](certificates/250219-21_SPIM_program-5.pdf))
+  * 2023-present: Problem-based learning for medical students
 
 ### PhD Student
 ETH Zurich, Department of Biosystems Science and Engineering (2017 - 2022)
