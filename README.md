@@ -4,42 +4,70 @@ ORCID: [0000-0003-4501-6121](https://orcid.org/0000-0003-4501-6121) | GitHub: [m
 
 ## About Me
 
-Early-career postdoctoral researcher focused on the quantitative analysis of the behavior of biological cells. Expertise in computational modeling of cellular mechanisms of tissue remodeling and advanced digital image analysis of microscopy data. Currently analyzing cellular dynamics in damaged cardiac tissue to uncover cellular mechanisms of zebrafish heart regeneration 🐟❤️.
+Biophysicist and computational biologist with extensive experience in advanced bio-image analysis and mechanistic modeling of cellular processes. Expert in developing custom algorithms for microscopy data analysis, combining classical image processing techniques with deep learning approaches. Currently developing and applying automated image analysis pipelines to study cellular dynamics in zebrafish heart regeneration, with a proven track record of bridging quantitative image analysis with mechanistic modeling in developmental biology.
 
 ## Experience
 
 ### Postdoctoral Researcher
 University of Bern, Institute of Anatomy, Developmental Biology and Regeneration Unit (2023 - Present)
 
-*   Studying cell behavior in injured zebrafish hearts (live imaging) 🫀📹
-*   Developing automated image analysis pipelines for microscopy data 📸🤖
+* **Image Analysis Pipeline Development**: Created custom Python-based workflows for high-throughput analysis of live imaging data from zebrafish hearts, incorporating segmentation, tracking, and feature extraction
+* **Multi-Modal Imaging**: Analyzed data from confocal and light sheet microscopy to quantify cellular behaviors during tissue regeneration
+* **Software Development**: Developed and maintained open-source image analysis tools (e.g., T-MIDAS and napari-tmidas plugin) for reproducible biological image processing
+* **Interdisciplinary Collaboration**: Worked with biologists and clinicians to translate imaging insights into mechanistic understanding of cardiac regeneration
 
 ### PhD Student
 ETH Zurich, Department of Biosystems Science and Engineering (2017 - 2022)
 
-*   Developed computational model of mesenchymal cell migration during early kidney morphogenesis 🦠🔍
-*   Created a mechanical tissue model of epithelial organization ⚙️
+* **Computational Modeling**: Developed C++ based cellular models of mesenchymal migration during kidney morphogenesis, integrating microscopy data with mechanistic simulations
+* **Image-Based Model Parameterization**: Extracted quantitative parameters from microscopy data to inform and validate computational models
+* **Machine Learning Applications**: Implemented deep learning approaches for cell segmentation and classification in complex tissues
+* **Interdisciplinary Research**: Collaborated with experimental biologists to integrate imaging data with computational models
 
 ## Education
 
-*   **Doctor of Science (Computational Biology)**, ETH Zürich '22
-*   **Master of Science (Physics)**, Heidelberg University '16
-*   **Bachelor of Science (Biophysics)**, Goethe University Frankfurt '13
+* **Doctor of Science (Computational Biology)**, ETH Zürich '22
+  * Thesis: "Computational Modeling of Cell Behavior During Kidney Morphogenesis"
+  * Advisor: Prof. Dagmar Iber, Computational Biology Group
+* **Master of Science (Physics)**, Heidelberg University '16
+  * Focus on Biophysics and Image Analysis
+* **Bachelor of Science (Biophysics)**, Goethe University Frankfurt '13
 
-## Skills
+## Technical Skills
 
-| Category                | Skill                     | Language         | Examples                                                                                                                                                                                                                                                                                           |
-| :---------------------- | :--------------------------| :--------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Modeling**            | Computational Modeling      | C++              | [Code](https://git.bsse.ethz.ch/iber/Publications/2022_Meer_NPC_Condensation)                                                                                                                                                                                                                      |
-| **Data Analysis**       | Data Analysis             | Julia, Python, R | [Julia Certification](https://coursera.org/share/a62d80f195c50fd8d7c7b0ece3bb2279), [Python Work](https://github.com/macromeer), [R Certification](https://courses.edx.org/certificates/bfb8efbaa75d4de3afa94f8599671b6d)                                                                            |
-| **Machine Learning**    | Deep Learning             | Python (PyTorch) | [Certification](https://github.com/macromeer/macromeer.github.io/blob/main/certificates/Bern_DL_WinterSchool_2024_Certificate_MarcoMeer.pdf)                                                                                                                                                     |
-| **Visualization**       | Data Visualization        | R                | [Examples](https://github.com/macromeer/scifig_plot_examples_R), [Certification](https://courses.edx.org/certificates/f4a5d4042f9c45a4892559d431aa4b2e)                                                                                                                                          |
+| Category | Skills & Tools | Proficiency Level |
+|:---------|:---------------|:------------------|
+| **Image Analysis** | Classical techniques (filtering, morphological operations), feature extraction, segmentation, object tracking | Advanced |
+| **Machine Learning** | Deep learning for image segmentation and classification, PyTorch | Advanced |
+| **Programming** | Python, Julia, R, C++ | Advanced |
+| **Scientific Software** | Napari, ImageJ/Fiji | Advanced |
+| **Data Visualization** | Matplotlib, seaborn, ggplot2 | Advanced |
+| **Version Control** | Git, GitHub | Advanced |
+| **Computing** | High-performance computing, parallel processing, GPU acceleration | Intermediate |
 
-## Recent Work
+## Key Projects & Software
 
-| Achievement                                                                                                                                                                              | Publication                                                                                                                                                                                                              |
-| :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Elucidated the mechanistic role of FGF8 signaling in nephron progenitor cell behavior using a computational model.                                                                     | [Sharma, A. and Meer, M. *et al.* (2022). *Development*, 149(21)](https://doi.org/10.1242/dev.201012).                                                                                                                                                                         |
-| Uncovered the role of lysosomes in valvular heart development and regeneration-promoting metabolic profiles related to Cox7a1-driven complex IV dimerization using image analysis pipelines. | [Chavez, M. N., *et al.* (2024), *iScience*](https://doi.org/10.1016/j.isci.2024.111406); [García-Poyatos, C., *et al.* (2024), *Developmental Cell*, 59(14)](https://doi.org/10.1016/j.devcel.2024.04.012).                                                                                                             |
-| Developed image analysis pipelines for tissue microscopy data.                                                                                              | [Meer, M. (2024). *MercaderLabAnatomy/T-MIDAS: v0.1.9-beta*. Zenodo](https://doi.org/10.5281/zenodo.10728503), [Napari plugin (2025)](https://github.com/macromeer/napari-tmidas)                                                                                                                                                       |
-| Established methods for the investigation of cellular behaviour in the cardiac injury microenvironment.                                                                               | UniBe Initiator Grant 2024 🏆                                                                                                                                                                                          |
+| Project | Description | Technologies | Link |
+|:--------|:------------|:-------------|:-----|
+| **T-MIDAS** | Tissue Microscopy Image Detection and Analysis Suite - modular framework for biological image processing | Python, scikit-image, napari | [GitHub](https://doi.org/10.5281/zenodo.10728503) |
+| **napari-tmidas** | Plugin providing T-MIDAS functionality within the napari viewer | Python, napari-plugin-engine | [GitHub](https://github.com/macromeer/napari-tmidas) |
+| **Cell Migration Model** | Agent-based simulation of nephron progenitor cell migration during kidney development | C++, VTK | [Code](https://git.bsse.ethz.ch/iber/Publications/2022_Meer_NPC_Condensation) |
+| **Cardiac Cell Behavior Analysis** | Quantitative analysis of cellular responses in injured cardiac tissue | Python, scikit-image, PyTorch | UniBe Initiator Grant 2024 |
+
+## Publications
+
+* Sharma, A. and **Meer, M.** *et al.* (2022). FGF signaling patterns cell behavior and morphogenesis in the nephron progenitor niche. *Development*, 149(21). [DOI:10.1242/dev.201012](https://doi.org/10.1242/dev.201012)
+* Chavez, M. N., *et al.* (2024). Lysosomal adaptation contributes to zebrafish heart regeneration. *iScience*. [DOI:10.1016/j.isci.2024.111406](https://doi.org/10.1016/j.isci.2024.111406)
+* García-Poyatos, C., *et al.* (2024). Cox7a1-driven complex IV dimerization promotes regenerative metabolism after cardiac injury in zebrafish. *Developmental Cell*, 59(14). [DOI:10.1016/j.devcel.2024.04.012](https://doi.org/10.1016/j.devcel.2024.04.012)
+* **Meer, M.** (2024). MercaderLabAnatomy/T-MIDAS: v0.1.9-beta. *Zenodo*. [DOI:10.5281/zenodo.10728503](https://doi.org/10.5281/zenodo.10728503)
+
+## Certifications & Professional Development
+
+* Deep Learning Winter School, University of Bern (2024) - [Certificate](https://github.com/macromeer/macromeer.github.io/blob/main/certificates/Bern_DL_WinterSchool_2024_Certificate_MarcoMeer.pdf)
+* Julia Academy Certification (2023) - [Certificate](https://coursera.org/share/a62d80f195c50fd8d7c7b0ece3bb2279)
+* Data Visualization with R (2022) - [Certificate](https://courses.edx.org/certificates/f4a5d4042f9c45a4892559d431aa4b2e)
+* Statistical Computing with R (2021) - [Certificate](https://courses.edx.org/certificates/bfb8efbaa75d4de3afa94f8599671b6d)
+
+## Awards & Grants
+
+* **UniBe Initiator Grant** (2024): "Investigation of cellular behaviour in the cardiac injury microenvironment" - Competitive grant funding for innovative research methods
