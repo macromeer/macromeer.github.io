@@ -8,10 +8,10 @@ Computational biologist with extensive experience in advanced bio-image analysis
 
 ## Core Competencies
 
-**Bio-Image Analysis**: Image processing | Feature extraction | Quantitative analysis  
-**Technical Tools**: Python | napari | scikit-image | numpy | cupy | scikit-image | SimpleITK | OpenCV | PyTorch | ImageJ/Fiji | Git  
-**Imaging Modalities**: Lightsheet microscopy | Confocal microscopy | Live imaging | Electron microscopy  
-**Modeling & Analysis**: Mechanistic modeling | Statistical analysis | Parameter estimation | Model validation
+**Bio-Image Analysis**: Image processing,  Feature extraction, Quantitative analysis  
+**Technical Tools**: Python, numpy, cupy, scikit-image, SimpleITK, OpenCV, PyTorch, napari, ImageJ/Fiji, Git  
+**Imaging Modalities**: Lightsheet microscopy, Confocal microscopy, Live imaging, Electron microscopy  
+**Modeling & Analysis**: Mechanistic modeling, Statistical analysis, Parameter estimation, Model validation
 
 ## Experience
 
