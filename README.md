@@ -74,9 +74,9 @@ ETH Zurich, Department of Biosystems Science and Engineering (2017 - 2022)
 ## Certifications & Professional Development
 
 * Deep Learning Winter School, University of Bern (2024) - [Certificate](https://github.com/macromeer/macromeer.github.io/blob/main/certificates/Bern_DL_WinterSchool_2024_Certificate_MarcoMeer.pdf)
-* Julia Academy Certification (2023) - [Certificate](https://coursera.org/share/a62d80f195c50fd8d7c7b0ece3bb2279)
+* Julia Scientific Programming (2023) - [Certificate](https://coursera.org/share/a62d80f195c50fd8d7c7b0ece3bb2279)
 * Data Visualization with R (2022) - [Certificate](https://courses.edx.org/certificates/f4a5d4042f9c45a4892559d431aa4b2e)
-* Statistical Computing with R (2021) - [Certificate](https://courses.edx.org/certificates/bfb8efbaa75d4de3afa94f8599671b6d)
+* Data Analysis with R (2021) - [Certificate](https://courses.edx.org/certificates/bfb8efbaa75d4de3afa94f8599671b6d)
 
 ## Awards & Grants
 
