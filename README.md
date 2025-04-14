@@ -4,7 +4,14 @@ ORCID: [0000-0003-4501-6121](https://orcid.org/0000-0003-4501-6121) | GitHub: [m
 
 ## About Me
 
-Biophysicist and computational biologist with extensive experience in advanced bioimage analysis and mechanistic modeling of cellular processes. Expert in developing custom algorithms for microscopy data analysis, combining classical image processing techniques with deep learning approaches. Currently developing and applying automated image analysis pipelines to study cellular dynamics in zebrafish heart regeneration, with a proven track record of bridging quantitative image analysis with mechanistic modeling in developmental biology.
+Computational biologist with extensive experience in advanced bio-image analysis and mechanistic modeling of cellular processes. Expert in developing custom algorithms for microscopy data analysis, combining classical image processing techniques with machine learning approaches. Currently developing and applying automated image analysis pipelines to study cellular dynamics in zebrafish heart regeneration, with a proven track record of bridging quantitative image analysis with mechanistic modeling in developmental biology.
+
+## Core Competencies
+
+**Bio-Image Analysis**: Image processing | Feature extraction | Quantitative analysis  
+**Technical Tools**: Python | napari | scikit-image | numpy | cupy | scikit-image | SimpleITK | OpenCV | PyTorch | ImageJ/Fiji | Git  
+**Imaging Modalities**: Lightsheet microscopy | Confocal microscopy | Live imaging  
+**Modeling & Analysis**: Mechanistic modeling | Statistical analysis | Parameter estimation | Model validation
 
 ## Experience
 
@@ -13,7 +20,7 @@ University of Bern, Institute of Anatomy, Developmental Biology and Regeneration
 
 * **Image Analysis Pipeline Development**: Created custom Python-based workflows for high-throughput analysis of live imaging data from zebrafish hearts, incorporating segmentation, tracking, and feature extraction
 * **Multi-Modal Imaging**: Analyzed data from confocal and light sheet microscopy to quantify cellular behaviors during tissue regeneration
-* **Software Development**: Developed and maintained open-source image analysis tools (e.g., T-MIDAS and napari-tmidas plugin) for reproducible bioimage processing
+* **Software Development**: Developed and maintained open-source image analysis tools (e.g., T-MIDAS and napari-tmidas plugin) for reproducible biological image processing workflows
 * **Interdisciplinary Collaboration**: Worked with biologists and clinicians to translate imaging insights into mechanistic understanding of cardiac regeneration
 
 ### PhD Student
@@ -37,22 +44,22 @@ ETH Zurich, Department of Biosystems Science and Engineering (2017 - 2022)
 
 | Category | Skills & Tools | Proficiency Level |
 |:---------|:---------------|:------------------|
-| **Image Analysis** | Classical techniques (filtering, morphological operations), feature extraction, segmentation, object tracking | Advanced |
+| **Image Analysis** | Classical techniques (filtering, morphological operations), feature extraction, segmentation, object tracking, restoration, registration | Advanced |
 | **Machine Learning** | Deep learning for image segmentation and classification, PyTorch | Advanced |
-| **Programming** | Python, Julia, R, C++ | Advanced |
-| **Scientific Software** | Napari, ImageJ/Fiji | Advanced |
+| **Programming** | Python (numpy, pandas, scikit-image, OpenCV), Julia, R, C++ | Advanced |
+| **Scientific Software** | napari, ImageJ/Fiji | Advanced |
 | **Data Visualization** | Matplotlib, seaborn, ggplot2 | Advanced |
-| **Version Control** | Git, GitHub | Advanced |
+| **Version Control** | Git, GitHub, reproducible workflows | Advanced |
 | **Computing** | High-performance computing, parallel processing, GPU acceleration | Intermediate |
 
 ## Key Projects & Software
 
 | Project | Description | Technologies | Link |
 |:--------|:------------|:-------------|:-----|
-| **T-MIDAS** | Tissue Microscopy Image Detection and Analysis Suite - modular framework for biological image processing | Python, scikit-image, napari | [GitHub](https://doi.org/10.5281/zenodo.10728503) |
-| **napari-tmidas** | Plugin providing T-MIDAS functionality within the napari viewer | Python, napari-plugin-engine | [GitHub](https://github.com/macromeer/napari-tmidas) |
-| **Cell Migration Model** | Agent-based simulation of nephron progenitor cell migration during kidney development | C++, VTK | [Code](https://git.bsse.ethz.ch/iber/Publications/2022_Meer_NPC_Condensation) |
-| **Cardiac Cell Behavior Analysis** | Quantitative analysis of cellular responses in injured cardiac tissue | Python, scikit-image, PyTorch | UniBe Initiator Grant 2024 |
+| **T-MIDAS** | Tissue Microscopy Image Detection and Analysis Suite - modular framework for batch processing of microscopy images with advanced processing pipelines | Python, scikit-image, napari | [GitHub](https://doi.org/10.5281/zenodo.10728503) |
+| **napari-tmidas** | Plugin providing T-MIDAS functionality within the napari viewer for interactive batch image processing | Python, npe2 | [GitHub](https://github.com/macromeer/napari-tmidas) |
+| **Cell Migration Model** | Agent-based simulation of nephron progenitor cell migration during kidney development with mechanistic modeling | C++, VTK | [Code](https://git.bsse.ethz.ch/iber/Publications/2022_Meer_NPC_Condensation) |
+| **Cardiac Cell Behavior Analysis** | Quantitative analysis of cellular responses in injured cardiac tissue using image segmentation and feature extraction | Python, scikit-image, TrackMate | UniBe Initiator Grant 2024 |
 
 ## Publications
 
@@ -70,4 +77,9 @@ ETH Zurich, Department of Biosystems Science and Engineering (2017 - 2022)
 
 ## Awards & Grants
 
-* **UniBe Initiator Grant** (2024): "Investigation of cellular behaviour in the cardiac injury microenvironment" - Competitive grant funding for innovative research methods
+* **UniBe Initiator Grant** (2024): "Investigation of cellular behaviour in the cardiac injury microenvironment" - Competitive grant funding for innovative research methods in quantitative image analysis
+
+## Languages
+
+* English (Fluent)
+* German (Native)
