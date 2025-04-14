@@ -47,7 +47,7 @@ ETH Zurich, Department of Biosystems Science and Engineering (2017 - 2022)
 | **Image Analysis** | Classical techniques (filtering, morphological operations), feature extraction, segmentation, object tracking, restoration, registration | Advanced |
 | **Machine Learning** | Deep learning for image segmentation and classification, PyTorch | Advanced |
 | **Programming** | Python (numpy, pandas, scikit-image, OpenCV), Julia, R, C++ | Advanced |
-| **Scientific Software** | napari, ImageJ/Fiji | Advanced |
+| **Scientific Software** | napari, ImageJ/Fiji, Cellpose, Trackastra | Advanced |
 | **Data Visualization** | Matplotlib, seaborn, ggplot2 | Advanced |
 | **Version Control** | Git, GitHub, reproducible workflows | Advanced |
 | **Computing** | High-performance computing, parallel processing, GPU acceleration | Intermediate |
