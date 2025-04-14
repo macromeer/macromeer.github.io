@@ -4,7 +4,7 @@ ORCID: [0000-0003-4501-6121](https://orcid.org/0000-0003-4501-6121) | GitHub: [m
 
 ## About Me
 
-Biophysicist and computational biologist with extensive experience in advanced bio-image analysis and mechanistic modeling of cellular processes. Expert in developing custom algorithms for microscopy data analysis, combining classical image processing techniques with deep learning approaches. Currently developing and applying automated image analysis pipelines to study cellular dynamics in zebrafish heart regeneration, with a proven track record of bridging quantitative image analysis with mechanistic modeling in developmental biology.
+Biophysicist and computational biologist with extensive experience in advanced bioimage analysis and mechanistic modeling of cellular processes. Expert in developing custom algorithms for microscopy data analysis, combining classical image processing techniques with deep learning approaches. Currently developing and applying automated image analysis pipelines to study cellular dynamics in zebrafish heart regeneration, with a proven track record of bridging quantitative image analysis with mechanistic modeling in developmental biology.
 
 ## Experience
 
@@ -13,7 +13,7 @@ University of Bern, Institute of Anatomy, Developmental Biology and Regeneration
 
 * **Image Analysis Pipeline Development**: Created custom Python-based workflows for high-throughput analysis of live imaging data from zebrafish hearts, incorporating segmentation, tracking, and feature extraction
 * **Multi-Modal Imaging**: Analyzed data from confocal and light sheet microscopy to quantify cellular behaviors during tissue regeneration
-* **Software Development**: Developed and maintained open-source image analysis tools (e.g., T-MIDAS and napari-tmidas plugin) for reproducible biological image processing
+* **Software Development**: Developed and maintained open-source image analysis tools (e.g., T-MIDAS and napari-tmidas plugin) for reproducible bioimage processing
 * **Interdisciplinary Collaboration**: Worked with biologists and clinicians to translate imaging insights into mechanistic understanding of cardiac regeneration
 
 ### PhD Student
@@ -27,7 +27,7 @@ ETH Zurich, Department of Biosystems Science and Engineering (2017 - 2022)
 ## Education
 
 * **Doctor of Science (Computational Biology)**, ETH Zürich '22
-  * Thesis: "Computational Modeling of Cell Behavior During Kidney Morphogenesis"
+  * Thesis: "Cell-Based Simulations of Tissue Patterning During Morphogenesis"
   * Advisor: Prof. Dagmar Iber, Computational Biology Group
 * **Master of Science (Physics)**, Heidelberg University '16
   * Focus on Biophysics and Image Analysis
