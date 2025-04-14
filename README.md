@@ -47,7 +47,7 @@ ETH Zurich, Department of Biosystems Science and Engineering (2017 - 2022)
 | **Image Analysis** | Classical techniques (filtering, morphological operations), feature extraction, segmentation, object tracking, restoration, registration | Advanced |
 | **Machine Learning** | Deep learning for image segmentation and classification, PyTorch | Advanced |
 | **Programming** | Python (numpy, pandas, scikit-image, OpenCV), Julia, R, C++ | Advanced |
-| **Scientific Software** | napari, ImageJ/Fiji, Cellpose, Trackastra, BiomedParse, convpaint, | Advanced |
+| **Scientific Software** | napari, ImageJ/Fiji, Cellpose, Trackastra, BiomedParse | Advanced |
 | **Data Visualization** | Matplotlib, seaborn, ggplot2 | Advanced |
 | **Version Control** | Git, GitHub, reproducible workflows | Advanced |
 | **Computing** | High-performance computing, parallel processing, GPU acceleration | Intermediate |
@@ -77,9 +77,6 @@ ETH Zurich, Department of Biosystems Science and Engineering (2017 - 2022)
 
 ## Awards & Grants
 
-* **UniBe Initiator Grant** (2024): "Investigation of cellular behaviour in the cardiac injury microenvironment" - Competitive grant funding for innovative research methods in quantitative image analysis
+* **UniBe Initiator Grant** (2024): "Investigation of cellular behaviour in the cardiac injury microenvironment" - Competitive grant funding for early career researchers
 
-## Languages
 
-* English (Fluent)
-* German (Native)
