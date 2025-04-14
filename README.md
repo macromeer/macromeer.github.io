@@ -10,7 +10,7 @@ Computational biologist with extensive experience in advanced bio-image analysis
 
 **Bio-Image Analysis**: Image processing | Feature extraction | Quantitative analysis  
 **Technical Tools**: Python | napari | scikit-image | numpy | cupy | scikit-image | SimpleITK | OpenCV | PyTorch | ImageJ/Fiji | Git  
-**Imaging Modalities**: Lightsheet microscopy | Confocal microscopy | Live imaging  
+**Imaging Modalities**: Lightsheet microscopy | Confocal microscopy | Live imaging | Electron microscopy  
 **Modeling & Analysis**: Mechanistic modeling | Statistical analysis | Parameter estimation | Model validation
 
 ## Experience
@@ -47,7 +47,7 @@ ETH Zurich, Department of Biosystems Science and Engineering (2017 - 2022)
 | **Image Analysis** | Classical techniques (filtering, morphological operations), feature extraction, segmentation, object tracking, restoration, registration | Advanced |
 | **Machine Learning** | Deep learning for image segmentation and classification, PyTorch | Advanced |
 | **Programming** | Python (numpy, pandas, scikit-image, OpenCV), Julia, R, C++ | Advanced |
-| **Scientific Software** | napari, ImageJ/Fiji, Cellpose, Trackastra | Advanced |
+| **Scientific Software** | napari, ImageJ/Fiji, Cellpose, Trackastra, BiomedParse, convpaint, | Advanced |
 | **Data Visualization** | Matplotlib, seaborn, ggplot2 | Advanced |
 | **Version Control** | Git, GitHub, reproducible workflows | Advanced |
 | **Computing** | High-performance computing, parallel processing, GPU acceleration | Intermediate |
