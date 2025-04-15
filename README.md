@@ -6,8 +6,6 @@ ORCID: [0000-0003-4501-6121](https://orcid.org/0000-0003-4501-6121) | GitHub: [m
 
 Computational biologist and biophysicist with extensive experience in advanced bio-image analysis and mechanistic modelling of cellular processes. Expert in the development of customised algorithms for microscopy data analysis combining classical image processing techniques with deep learning approaches. Currently developing and applying automated image analysis pipelines to study cell dynamics in zebrafish heart regeneration, with a proven track record of combining quantitative image analysis with mechanistic modelling in developmental biology.
 
-Translated with DeepL.com (free version)
-
 ## Core Competencies
 
 **Bio-Image Analysis**: Image processing,  Feature extraction, Quantitative analysis  
