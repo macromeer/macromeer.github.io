@@ -1,1 +1,5 @@
+title: Marco Meer - Computational Biologist
+description: Personal website showcasing my work in computational biology and biophysics
+theme: jekyll-theme-minimal
+
 gems: [jekyll-mermaid]
