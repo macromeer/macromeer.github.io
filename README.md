@@ -53,18 +53,31 @@ I create computational models that help explain biological processes:
 ## Career Journey
 
 ```mermaid
+%%{init: { 
+  'theme': 'base',
+  'themeVariables': {
+    'primaryColor': '#f1a340',
+    'primaryTextColor': '#fff',
+    'primaryBorderColor': '#5D8AA8',
+    'lineColor': '#5D8AA8',
+    'secondaryColor': '#006699',
+    'tertiaryColor': '#fff'
+  }
+}%%
 timeline
     title Academic and Research Path
-    2013 : Bachelor's in Biophysics
-         : Goethe University Frankfurt
-    2016 : Master's in Physics
-         : Heidelberg University
-    2017-2022 : PhD in Computational Biology
-              : ETH Zürich
-    2022 : Doctorate Completed
-         : "Cell-Based Simulations of Tissue Patterning During Morphogenesis"
-    2023-Present : Postdoctoral Researcher
-                 : University of Bern
+    section Education
+      2013 : Bachelor's in Biophysics
+           : Goethe University Frankfurt
+      2016 : Master's in Physics
+           : Heidelberg University
+      2022 : PhD in Computational Biology
+           : ETH Zürich
+    section Career      
+      2017-2022 : PhD Researcher
+                : ETH Zürich
+      2023-Present : Postdoctoral Researcher
+                   : University of Bern
 ```
 
 ### Postdoctoral Researcher
@@ -95,37 +108,6 @@ timeline
 
 ## Technical Skills
 
-```mermaid
-graph TD
-    A[Technical Skills] --> B[Image Analysis]
-    A --> C[Programming]
-    A --> D[Scientific Software]
-    A --> E[Data Visualization]
-    A --> F[Computing]
-    
-    B --> B1[Classical techniques]
-    B --> B2[Segmentation & tracking]
-    B --> B3[Registration]
-    
-    C --> C1[Python]
-    C --> C2[Julia]
-    C --> C3[R]
-    C --> C4[C++]
-    
-    D --> D1[napari]
-    D --> D2[ImageJ/Fiji]
-    D --> D3[Specialized tools]
-    
-    E --> E1[Matplotlib]
-    E --> E2[seaborn]
-    E --> E3[ggplot2]
-    
-    F --> F1[High-performance computing]
-    F --> F2[GPU acceleration]
-    
-    style A fill:#f9f9f9,stroke:#333,stroke-width:1px
-    style B,C,D,E,F fill:#e1f5fe,stroke:#333,stroke-width:1px
-```
 
 | Category | Skills & Tools | Proficiency |
 |:---------|:---------------|:------------|
