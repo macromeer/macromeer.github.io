@@ -31,7 +31,7 @@ I develop custom software tools that extract meaningful information from microsc
 
 ### Technical Expertise
 I work with a variety of programming languages and specialized scientific tools:
-- Python (with libraries for numerical analysis, image processing, and machine learning)
+- Python (with libraries for numerical analysis, image processing, and deep learning)
 - Napari (an open-source tool for multi-dimensional image visualization)
 - ImageJ/Fiji (widely-used biomedical image analysis software)
 - Version control systems for collaborative software development
@@ -40,7 +40,7 @@ I work with a variety of programming languages and specialized scientific tools:
 I work with data from advanced microscopy techniques:
 - Lightsheet microscopy (for 3D imaging of living samples)
 - Confocal microscopy (for high-resolution cellular imaging)
-- Live imaging (for studying dynamic processes in real-time)
+- Live imaging (for studying dynamic processes over time)
 - Electron microscopy (for ultra-detailed structural analysis)
 
 ### Modeling & Analysis
