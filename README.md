@@ -1,58 +1,40 @@
 # Marco Meer | Personal Website
 
-View my [ORCID](https://orcid.org/0000-0003-4501-6121) or [GitHub](https://github.com/macromeer) Profile 
+[ORCID](https://orcid.org/0000-0003-4501-6121) | [GitHub](https://github.com/macromeer)
 
 ## About Me
 
-I am computational biologist and biophysicist with extensive experience in advanced bio-image analysis and mechanistic modelling of cellular processes. Expert in the development of customised algorithms for microscopy data analysis combining classical image processing techniques with deep learning approaches. Currently developing and applying automated image analysis pipelines to study cell dynamics in zebrafish heart regeneration, with a proven track record of combining quantitative image analysis with mechanistic modelling in developmental biology.
+I am a computational biologist and biophysicist with extensive experience in advanced bio-image analysis and mechanistic modeling of cellular processes. My expertise lies in developing customized algorithms for microscopy data analysis, combining classical image processing techniques with deep learning approaches. Currently, I'm developing and applying automated image analysis pipelines to study cell dynamics in zebrafish heart regeneration, with a proven track record of integrating quantitative image analysis with mechanistic modeling in developmental biology.
 
 ## Core Competencies
 
-```mermaid
+### Bio-Image Analysis
+- Image processing
+- Feature extraction
+- Quantitative analysis
 
-classDiagram
+### Technical Tools
+- Python (numpy/cupy, scikit-image, SimpleITK, OpenCV, PyTorch)
+- Napari
+- ImageJ2/Fiji
+- Git
 
-class BIA["Bio-Image Analysis"] {
-  Image processing
-  Feature extraction
-  Quantitative analysis
-}
-style BIA fill:#ececff,stroke-width:0px
+### Imaging Modalities
+- Lightsheet microscopy
+- Confocal microscopy
+- Live imaging
+- Electron microscopy
 
-class TT["Technical Tools"] {
-  Python
-  numpy / cupy
-  scikit-image
-  SimpleITK
-  OpenCV
-  PyTorch
-  Napari
-  ImageJ2/Fiji
-  Git
-}
-style TT fill:#ececff,stroke-width:0px
-
-class IM["Imaging Modalities"] {
-  Lightsheet microscopy
-  Confocal microscopy
-  Live imaging
-  Electron microscopy
-}
-style IM fill:#ececff,stroke-width:0px
-class MA["Modeling & Analysis"] {
-  Mechanistic modeling
-  Statistical analysis
-  Parameter estimation
-  Model validation
-}
-style MA fill:#ececff,stroke-width:0px
-```
-
+### Modeling & Analysis
+- Mechanistic modeling
+- Statistical analysis
+- Parameter estimation
+- Model validation
 
 ## Experience
 
 ### Postdoctoral Researcher
-University of Bern, Institute of Anatomy, Developmental Biology and Regeneration Unit (2023 - Present)
+**University of Bern, Institute of Anatomy, Developmental Biology and Regeneration Unit** (2023 - Present)
 
 * **Image Analysis Pipeline Development**: Created custom Python-based workflows for high-throughput analysis of live imaging data from zebrafish hearts, incorporating segmentation, tracking, and feature extraction
 * **Multi-Modal Imaging**: Analyzed data from confocal and light sheet microscopy to quantify cellular behaviors during tissue regeneration
@@ -63,7 +45,7 @@ University of Bern, Institute of Anatomy, Developmental Biology and Regeneration
   * 2023-present: Problem-based learning for medical students
 
 ### PhD Student
-ETH Zurich, Department of Biosystems Science and Engineering (2017 - 2022)
+**ETH Zurich, Department of Biosystems Science and Engineering** (2017 - 2022)
 
 * **Computational Modeling**: Developed C++ based cellular models of mesenchymal migration during kidney morphogenesis, integrating microscopy data with mechanistic simulations
 * **Image-Based Model Parameterization**: Extracted quantitative parameters from microscopy data to inform and validate computational models
@@ -117,5 +99,3 @@ ETH Zurich, Department of Biosystems Science and Engineering (2017 - 2022)
 ## Awards & Grants
 
 * **UniBe Initiator Grant** (2024): "Investigation of cellular behaviour in the cardiac injury microenvironment" - Competitive grant funding for early career researchers
-
-
