@@ -1,4 +1,4 @@
-# Marco Meer | Personal Website
+### Personal Website
 
 [ORCID](https://orcid.org/0000-0003-4501-6121) | [GitHub](https://github.com/macromeer)
 
