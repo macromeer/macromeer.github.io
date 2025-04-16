@@ -1,13 +1,53 @@
+# Marco Meer | Personal Website
+
+View my [ORCID](https://orcid.org/0000-0003-4501-6121) or [GitHub](https://github.com/macromeer) Profile 
+
 ## About Me
 
-Computational biologist and biophysicist with extensive experience in advanced bio-image analysis and mechanistic modelling of cellular processes. Expert in the development of customised algorithms for microscopy data analysis combining classical image processing techniques with deep learning approaches. Currently developing and applying automated image analysis pipelines to study cell dynamics in zebrafish heart regeneration, with a proven track record of combining quantitative image analysis with mechanistic modelling in developmental biology.
+I am computational biologist and biophysicist with extensive experience in advanced bio-image analysis and mechanistic modelling of cellular processes. Expert in the development of customised algorithms for microscopy data analysis combining classical image processing techniques with deep learning approaches. Currently developing and applying automated image analysis pipelines to study cell dynamics in zebrafish heart regeneration, with a proven track record of combining quantitative image analysis with mechanistic modelling in developmental biology.
 
 ## Core Competencies
 
-**Bio-Image Analysis**: Image processing,  Feature extraction, Quantitative analysis  
-**Technical Tools**: Python, numpy, cupy, scikit-image, SimpleITK, OpenCV, PyTorch, napari, ImageJ/Fiji, Git  
-**Imaging Modalities**: Lightsheet microscopy, Confocal microscopy, Live imaging, Electron microscopy  
-**Modeling & Analysis**: Mechanistic modeling, Statistical analysis, Parameter estimation, Model validation
+```mermaid
+
+classDiagram
+
+class BIA["Bio-Image Analysis"] {
+  Image processing
+  Feature extraction
+  Quantitative analysis
+}
+style BIA fill:#ececff,stroke-width:0px
+
+class TT["Technical Tools"] {
+  Python
+  numpy / cupy
+  scikit-image
+  SimpleITK
+  OpenCV
+  PyTorch
+  Napari
+  ImageJ2/Fiji
+  Git
+}
+style TT fill:#ececff,stroke-width:0px
+
+class IM["Imaging Modalities"] {
+  Lightsheet microscopy
+  Confocal microscopy
+  Live imaging
+  Electron microscopy
+}
+style IM fill:#ececff,stroke-width:0px
+class MA["Modeling & Analysis"] {
+  Mechanistic modeling
+  Statistical analysis
+  Parameter estimation
+  Model validation
+}
+style MA fill:#ececff,stroke-width:0px
+```
+
 
 ## Experience
 
