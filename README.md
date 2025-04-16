@@ -1,71 +1,135 @@
-### Personal Website
+# Marco Meer - Computational Biologist
 
 [ORCID](https://orcid.org/0000-0003-4501-6121) | [GitHub](https://github.com/macromeer)
 
 ## About Me
 
-I am a computational biologist and biophysicist with extensive experience in advanced bio-image analysis and mechanistic modeling of cellular processes. My expertise lies in developing customized algorithms for microscopy data analysis, combining classical image processing techniques with deep learning approaches. Currently, I'm developing and applying automated image analysis pipelines to study cell dynamics in zebrafish heart regeneration, with a proven track record of integrating quantitative image analysis with mechanistic modeling in developmental biology.
+I'm a computational biologist and biophysicist who combines computer science with biology to solve complex problems. I develop specialized computer programs that analyze microscope images of cells and tissues, helping researchers understand how biological systems work. Currently, I'm creating automated tools to study how zebrafish hearts can regenerate after injury—research that could eventually help us understand human heart healing.
 
-## Core Competencies
+My work bridges the gap between detailed microscope images and mathematical models that explain cell behavior. This combination helps scientists gain deeper insights into biological processes like tissue development and regeneration.
+
+## What I Do
+
+```mermaid
+flowchart LR
+    A[Microscopy Images] --> B[Image Analysis]
+    B --> C[Quantitative Data]
+    C --> D[Computational Modeling]
+    D --> E[Biological Insights]
+    style A fill:#f9f9f9,stroke:#333,stroke-width:1px
+    style B fill:#e1f5fe,stroke:#333,stroke-width:1px
+    style C fill:#e8f5e9,stroke:#333,stroke-width:1px
+    style D fill:#fff8e1,stroke:#333,stroke-width:1px
+    style E fill:#fce4ec,stroke:#333,stroke-width:1px
+```
 
 ### Bio-Image Analysis
-- Image processing
-- Feature extraction
-- Quantitative analysis
+I develop custom software tools that extract meaningful information from microscope images:
+- Processing raw images to enhance their quality
+- Identifying and measuring specific features within cells and tissues
+- Converting visual data into numbers that can be analyzed statistically
 
-### Technical Tools
-- Python (numpy/cupy, scikit-image, SimpleITK, OpenCV, PyTorch)
-- Napari
-- ImageJ2/Fiji
-- Git
+### Technical Expertise
+I work with a variety of programming languages and specialized scientific tools:
+- Python (with libraries for numerical analysis, image processing, and machine learning)
+- Napari (an open-source tool for multi-dimensional image visualization)
+- ImageJ/Fiji (widely-used biomedical image analysis software)
+- Version control systems for collaborative software development
 
-### Imaging Modalities
-- Lightsheet microscopy
-- Confocal microscopy
-- Live imaging
-- Electron microscopy
+### Imaging Technologies
+I work with data from advanced microscopy techniques:
+- Lightsheet microscopy (for 3D imaging of living samples)
+- Confocal microscopy (for high-resolution cellular imaging)
+- Live imaging (for studying dynamic processes in real-time)
+- Electron microscopy (for ultra-detailed structural analysis)
 
 ### Modeling & Analysis
-- Mechanistic modeling
-- Statistical analysis
-- Parameter estimation
-- Model validation
+I create computational models that help explain biological processes:
+- Building mathematical representations of cellular systems
+- Analyzing patterns in biological data
+- Estimating parameters that drive biological processes
+- Testing models against experimental data
 
-## Experience
+## Career Journey
+
+```mermaid
+timeline
+    title Academic and Research Path
+    2013 : Bachelor's in Biophysics
+         : Goethe University Frankfurt
+    2016 : Master's in Physics
+         : Heidelberg University
+    2017-2022 : PhD in Computational Biology
+              : ETH Zürich
+    2022 : Doctorate Completed
+         : "Cell-Based Simulations of Tissue Patterning During Morphogenesis"
+    2023-Present : Postdoctoral Researcher
+                 : University of Bern
+```
 
 ### Postdoctoral Researcher
 **University of Bern, Institute of Anatomy, Developmental Biology and Regeneration Unit** (2023 - Present)
 
-* **Image Analysis Pipeline Development**: Created custom Python-based workflows for high-throughput analysis of live imaging data from zebrafish hearts, incorporating segmentation, tracking, and feature extraction
-* **Multi-Modal Imaging**: Analyzed data from confocal and light sheet microscopy to quantify cellular behaviors during tissue regeneration
-* **Software Development**: Developed and maintained open-source image analysis tools (e.g., T-MIDAS and napari-tmidas plugin) for reproducible biological image processing workflows
-* **Interdisciplinary Collaboration**: Worked with biologists and clinicians to translate imaging insights into mechanistic understanding of cardiac regeneration
-* **Teaching**:
-  * 2025: Introduction to image processing ([MIC Training: Light Sheet Microscopy](certificates/250219-21_SPIM_program-5.pdf))
-  * 2023-present: Problem-based learning for medical students
+* Developed custom Python-based workflows to analyze time-lapse microscopy data of zebrafish hearts, helping researchers track cellular changes during regeneration
+* Created analysis methods that work with multiple types of microscopy data to measure how cells behave during tissue healing
+* Built and maintained open-source software tools (T-MIDAS and napari-tmidas plugin) that make complex image analysis accessible to biologists
+* Collaborated with biologists and medical researchers to connect imaging insights with the underlying biology of heart regeneration
+* Taught image processing techniques to students and researchers
 
-### PhD Student
+### PhD Researcher
 **ETH Zurich, Department of Biosystems Science and Engineering** (2017 - 2022)
 
-* **Computational Modeling**: Developed C++ based cellular models of mesenchymal migration during kidney morphogenesis, integrating microscopy data with mechanistic simulations
-* **Image-Based Model Parameterization**: Extracted quantitative parameters from microscopy data to inform and validate computational models
-* **Machine Learning Applications**: Implemented deep learning approaches for cell segmentation and classification in complex tissues
-* **Interdisciplinary Research**: Collaborated with experimental biologists to integrate imaging data with computational models
+* Created computational models of cell movement during kidney development, helping explain how organs take shape
+* Connected microscopy observations with mathematical models, making biological theories more precise and testable
+* Applied machine learning to automatically identify and classify cells in complex tissue environments
+* Worked closely with experimental biologists to ensure computational models accurately reflected biological reality
 
 ## Education
 
-* **Doctor of Science (Computational Biology)**, ETH Zürich '22
+* **PhD in Computational Biology**, ETH Zürich (2022)
   * Thesis: "Cell-Based Simulations of Tissue Patterning During Morphogenesis"
   * Advisor: Prof. Dagmar Iber, Computational Biology Group
-* **Master of Science (Physics)**, Heidelberg University '16
+* **Master of Science in Physics**, Heidelberg University (2016)
   * Focus on Biophysics and Image Analysis
-* **Bachelor of Science (Biophysics)**, Goethe University Frankfurt '13
+* **Bachelor of Science in Biophysics**, Goethe University Frankfurt (2013)
 
 ## Technical Skills
 
-| Category | Skills & Tools | Proficiency Level |
-|:---------|:---------------|:------------------|
-| **Image Analysis** | Classical techniques (filtering, morphological operations), feature extraction, segmentation, object tracking, restoration, registration | Advanced |
+```mermaid
+graph TD
+    A[Technical Skills] --> B[Image Analysis]
+    A --> C[Programming]
+    A --> D[Scientific Software]
+    A --> E[Data Visualization]
+    A --> F[Computing]
+    
+    B --> B1[Classical techniques]
+    B --> B2[Segmentation & tracking]
+    B --> B3[Registration]
+    
+    C --> C1[Python]
+    C --> C2[Julia]
+    C --> C3[R]
+    C --> C4[C++]
+    
+    D --> D1[napari]
+    D --> D2[ImageJ/Fiji]
+    D --> D3[Specialized tools]
+    
+    E --> E1[Matplotlib]
+    E --> E2[seaborn]
+    E --> E3[ggplot2]
+    
+    F --> F1[High-performance computing]
+    F --> F2[GPU acceleration]
+    
+    style A fill:#f9f9f9,stroke:#333,stroke-width:1px
+    style B,C,D,E,F fill:#e1f5fe,stroke:#333,stroke-width:1px
+```
+
+| Category | Skills & Tools | Proficiency |
+|:---------|:---------------|:------------|
+| **Image Analysis** | Classical techniques (filtering, morphology), feature extraction, segmentation, object tracking, restoration, registration | Advanced |
 | **Machine Learning** | Deep learning for image segmentation and classification, PyTorch | Advanced |
 | **Programming** | Python (numpy, pandas, scikit-image, OpenCV), Julia, R, C++ | Advanced |
 | **Scientific Software** | napari, ImageJ/Fiji, Cellpose, Trackastra, BiomedParse | Advanced |
@@ -77,10 +141,10 @@ I am a computational biologist and biophysicist with extensive experience in adv
 
 | Project | Description | Technologies | Link |
 |:--------|:------------|:-------------|:-----|
-| **T-MIDAS** | Tissue Microscopy Image Detection and Analysis Suite - modular framework for batch processing of microscopy images with advanced processing pipelines | Python, scikit-image, napari | [GitHub](https://doi.org/10.5281/zenodo.10728503) |
-| **napari-tmidas** | Plugin providing T-MIDAS functionality within the napari viewer for interactive batch image processing | Python, npe2 | [GitHub](https://github.com/macromeer/napari-tmidas) |
-| **Cell Migration Model** | Agent-based simulation of nephron progenitor cell migration during kidney development with mechanistic modeling | C++, VTK | [Code](https://git.bsse.ethz.ch/iber/Publications/2022_Meer_NPC_Condensation) |
-| **Cardiac Cell Behavior Analysis** | Quantitative analysis of cellular responses in injured cardiac tissue using image segmentation and feature extraction | Python, scikit-image, TrackMate | UniBe Initiator Grant 2024 |
+| **T-MIDAS** | A toolkit for processing microscopy images in batches with customizable workflows. Helps researchers analyze large datasets efficiently. | Python, scikit-image, napari | [GitHub](https://doi.org/10.5281/zenodo.10728503) |
+| **napari-tmidas** | A plugin that brings T-MIDAS functionality to the napari viewer, enabling interactive processing of microscopy images. | Python, npe2 | [GitHub](https://github.com/macromeer/napari-tmidas) |
+| **Cell Migration Model** | A computer simulation that models how cells move and organize during kidney development, helping explain the underlying mechanisms of organ formation. | C++, VTK | [Code](https://git.bsse.ethz.ch/iber/Publications/2022_Meer_NPC_Condensation) |
+| **Cardiac Cell Behavior Analysis** | A system to measure and analyze how cells respond in injured heart tissue, providing insights into the regeneration process. | Python, scikit-image, TrackMate | UniBe Initiator Grant 2024 |
 
 ## Publications
 
@@ -98,4 +162,9 @@ I am a computational biologist and biophysicist with extensive experience in adv
 
 ## Awards & Grants
 
-* **UniBe Initiator Grant** (2024): "Investigation of cellular behaviour in the cardiac injury microenvironment" - Competitive grant funding for early career researchers
+* **UniBe Initiator Grant** (2024): "Investigation of cellular behaviour in the cardiac injury microenvironment" - Competitive funding awarded to early career researchers with promising research directions
+
+## Teaching Experience
+
+* **2025**: Introduction to image processing ([MIC Training: Light Sheet Microscopy](certificates/250219-21_SPIM_program-5.pdf))
+* **2023-present**: Problem-based learning for medical students at University of Bern
