@@ -114,7 +114,7 @@ timeline
 | **Image Analysis** | Classical techniques (filtering, morphology), feature extraction, segmentation, object tracking, restoration, registration | Advanced |
 | **Machine Learning** | Deep learning for image segmentation and classification (PyTorch) | Advanced |
 | **Programming** | Python (numpy, pandas, scikit-image, OpenCV), Julia, R, C++ | Advanced |
-| **Scientific Software** | Napari, Cellpose, Trackastra, Careamics, BiomedParse, ImageJ2/Fiji | Advanced |
+| **Scientific Software** | Napari, Cellpose, Trackastra, CAREamics, BiomedParse, ImageJ2/Fiji | Advanced |
 | **Data Visualization** | Matplotlib, seaborn, ggplot2 | Advanced |
 | **Version Control** | Git, GitHub, reproducible workflows | Intermediate |
 | **Computing** | High-performance computing, parallel processing, GPU acceleration | Intermediate |
