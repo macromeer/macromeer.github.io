@@ -1,12 +1,12 @@
-# Marco Meer - Computational Biologist
+# Marco Meer - Computational Biophysicist
 
-[ORCID](https://orcid.org/0000-0003-4501-6121) | [GitHub](https://github.com/macromeer)
+[ORCID](https://orcid.org/0000-0003-4501-6121) | [GitHub](https://github.com/macromeer) | [SwissBIAS](https://swissbias.github.io/members/marco.meer/)
 
 ## About Me
 
-I'm a computational biologist and biophysicist who combines computer science with biology to solve complex problems. I develop specialized computer programs that analyze microscope images of cells and tissues, helping researchers understand how biological systems work. Currently, I'm creating automated tools to study how zebrafish hearts can regenerate after injury—research that could eventually help us understand human heart healing.
+I'm a computational biophysicist who combines computer science with biophysics to answer complex biological questions. I develop specialized computer programs that analyze microscope images of cells and tissues, helping researchers understand how biological systems work. Currently, I am creating and applying automated tools to study how zebrafish hearts can regenerate after injury — research that can eventually help us understand human heart healing.
 
-My work bridges the gap between detailed microscope images and mathematical models that explain cell behavior. This combination helps scientists gain deeper insights into biological processes like tissue development and regeneration.
+My work bridges the gap between detailed microscope images and mechanisms that explain cell behavior. This combination helps scientists gain deeper insights into biological processes like tissue development and regeneration.
 
 ## What I Do
 
