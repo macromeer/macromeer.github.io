@@ -4,7 +4,7 @@
 
 ## About Me
 
-I'm a computational biophysicist who combines computer science with biophysics to answer complex biological questions. I develop specialized computer programs that analyze microscope images of cells and tissues, helping researchers understand how biological cells interact to form and maintain a biological tissue. Currently, I am creating and applying automated tools to study how the tissues of the zebrafish heart can heal after injury — research that can eventually help us understand how human hearts can heal better.
+I am a computational biophysicist who combines computer science with biophysics to answer complex biological questions. I develop specialized computer programs that analyze microscope images of cells and tissues, helping researchers understand how biological cells interact to form and maintain a biological tissue. Currently, I am creating and applying automated tools to study how the tissues of the zebrafish heart can heal after injury — research that can eventually help us understand how human hearts can heal better.
 
 My work bridges the gap between detailed microscope images and mechanisms that explain cell behavior. This combination helps scientists gain deeper insights into the biological processes of tissue development and regeneration.
 
