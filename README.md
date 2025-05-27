@@ -123,7 +123,7 @@ timeline
 
 | Project | Description | Technologies | Link |
 |:--------|:------------|:-------------|:-----|
-| **T-MIDAS** | A toolkit for processing microscopy images in batches with customizable workflows. Helps researchers analyze large datasets efficiently. | Python, scikit-image, napari | [GitHub](https://doi.org/10.5281/zenodo.10728503) |
+| **T-MIDAS** | A toolkit for processing microscopy images in batches with customizable workflows. Helps researchers analyze large datasets efficiently. | Python, scikit-image, napari | [GitHub](https://github.com/MercaderLabAnatomy/T-MIDAS) |
 | **napari-tmidas** | A plugin that brings T-MIDAS functionality to the napari viewer, enabling interactive processing of microscopy images. | Python, npe2 | [GitHub](https://github.com/macromeer/napari-tmidas) |
 | **Cell Migration Model** | A computer simulation that models how cells move and organize during kidney development, helping explain the underlying mechanisms of organ formation. | C++, VTK | [Code](https://git.bsse.ethz.ch/iber/Publications/2022_Meer_NPC_Condensation) |
 | **Cardiac Cell Behavior Analysis** | A system to measure and analyze how cells respond in injured heart tissue, providing insights into the regeneration process. | Python, scikit-image, TrackMate | UniBe Initiator Grant 2024 |
