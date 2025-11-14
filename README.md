@@ -1,7 +1,6 @@
-# Marco Meer
-
-[ORCID](https://orcid.org/0000-0003-4501-6121) | [GitHub](https://github.com/macromeer) | [LinkedIn](https://www.linkedin.com/in/dr-marco-meer/)
-
+# Marco Meer, Dr. sc. ETH
+ <img src="https://github.com/user-attachments/assets/e511e703-b224-4e29-95d6-988844bd7fcb" alt="Portrait" width="200">  
+ 
 ## About Me
 
 I help scientists understand how cells grow and heal tissues by combining computer science, biology, and imaging. My work uses automated software and advanced microscopes to study regeneration, especially in the heart. I share my tools openly to support researchers and students.
@@ -21,3 +20,6 @@ I help scientists understand how cells grow and heal tissues by combining comput
 
 ## Get in Touch
 Explore my open-source projects or connect for collaborations.
+
+
+[ORCID](https://orcid.org/0000-0003-4501-6121) [GitHub](https://github.com/macromeer) [LinkedIn](https://www.linkedin.com/in/dr-marco-meer/)
