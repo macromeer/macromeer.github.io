@@ -2,7 +2,6 @@
  <img src="https://github.com/user-attachments/assets/e511e703-b224-4e29-95d6-988844bd7fcb" alt="Portrait" width="200">  
  
 ## About Me
-
 I help scientists understand how cells grow and heal tissues by combining computer science, biology, and imaging. My work uses automated software and advanced microscopes to study regeneration, especially in the heart. I share my tools openly to support researchers and students.
 
 ## What I Do
@@ -22,4 +21,5 @@ I help scientists understand how cells grow and heal tissues by combining comput
 Explore my open-source projects or connect for collaborations.
 
 
-[ORCID](https://orcid.org/0000-0003-4501-6121) [GitHub](https://github.com/macromeer) [LinkedIn](https://www.linkedin.com/in/dr-marco-meer/)
+| [<img src="https://github.com/user-attachments/assets/3fae71c6-4f58-4361-ac45-f2bbdad0b493" alt="github" width="50"/>](https://github.com/macromeer) | [<img src="https://github.com/user-attachments/assets/a868b63d-37fd-4786-b6f8-7aa7a6d6ef9c" alt="orcid" width="100"/>](https://orcid.org/0000-0003-4501-6121) | [<img src="https://github.com/user-attachments/assets/60e835a9-5846-4264-984f-2922ddb32faf" alt="linkedin" width="100"/>](https://linkedin.com/in/dr-marco-meer/) |
+| ------- | ------- | -------|
