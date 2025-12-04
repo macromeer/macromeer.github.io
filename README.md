@@ -14,7 +14,7 @@ I help scientists understand how cells grow and heal tissues by combining comput
 - Creating open-source tools for image analysis and research collaboration
 
 ## Recent Achievements
-- Awarded a University of Bern grant for innovative heart research (2024)
+- Awarded  University of Bern Initiator Grant
 - Developed publicly available tools making scientific analysis easier
 
 ## Get in Touch
