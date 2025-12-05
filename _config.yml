@@ -1,5 +1,8 @@
-title: Marco Meer - Computational Biophysicist
+title: Marco Meer
 description: Personal website 
-theme: jekyll-theme-minimal
-
+#theme: jekyll-theme-minimal
+remote_theme: yaoyao-liu/minimal-light   # has auto dark mode
+plugins:
+  - jekyll-remote-theme
+  - jekyll-mermaid
 gems: [jekyll-mermaid]
