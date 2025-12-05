@@ -20,5 +20,5 @@ I help biologists and physicians explore how cells organize and repair tissues. 
 Explore my open-source projects or reach out to discuss potential collaborations.
 
 
-| [<img src="https://github.com/user-attachments/assets/3fae71c6-4f58-4361-ac45-f2bbdad0b493" alt="github" width="50"/>](https://github.com/macromeer) | [<img src="https://github.com/user-attachments/assets/a868b63d-37fd-4786-b6f8-7aa7a6d6ef9c" alt="orcid" width="100"/>](https://orcid.org/0000-0003-4501-6121) | |
-| ------- | ------- | -------|
+| [<img src="https://github.com/user-attachments/assets/3fae71c6-4f58-4361-ac45-f2bbdad0b493" alt="github" width="50"/>](https://github.com/macromeer) | [<img src="https://github.com/user-attachments/assets/a868b63d-37fd-4786-b6f8-7aa7a6d6ef9c" alt="orcid" width="100"/>](https://orcid.org/0000-0003-4501-6121) | 
+| ------- | ------- | 
