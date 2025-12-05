@@ -1,4 +1,4 @@
-# Marco Meer, Dr. sc. ETH
+# Marco Meer
  <img src="https://github.com/user-attachments/assets/e511e703-b224-4e29-95d6-988844bd7fcb" alt="Portrait" width="200">  
  
 ## About Me
