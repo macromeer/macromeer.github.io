@@ -1,6 +1,6 @@
 # Marco Meer
- <img src="https://github.com/user-attachments/assets/e511e703-b224-4e29-95d6-988844bd7fcb" alt="Portrait" width="200">  
- 
+ <img src="https://github.com/user-attachments/assets/885bc339-75f6-4490-ae8d-dd43e12e0371" alt="Portrait" width="200">  
+
 ## About Me
 I help biologists and physicians explore how cells organize and repair tissues. My work focuses on developing computational tools that transform advanced microscopy data into quantitative insights. I also train researchers and students to apply these tools to their own biological questions.
 
