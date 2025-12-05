@@ -1,0 +1,27 @@
+---
+---
+
+@import "jekyll-theme-minimal";
+
+// Dark overrides
+body {
+  background-color: #111;
+  color: #eee;
+}
+
+a {
+  color: #4da3ff;
+}
+
+a:visited {
+  color: #b58cff;
+}
+
+.site-title, .site-title a {
+  color: #fff;
+}
+
+.site-footer {
+  background-color: #000;
+  color: #aaa;
+}
