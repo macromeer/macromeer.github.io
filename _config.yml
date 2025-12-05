@@ -1,7 +1,6 @@
 title: Marco Meer
-description: Personal website 
+description: Personal website
 theme: jekyll-theme-minimal
-gems: [jekyll-mermaid]
 
-sass:
-  sass_dir: assets/css
+plugins:
+  - jekyll-mermaid
