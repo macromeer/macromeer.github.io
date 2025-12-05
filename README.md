@@ -2,20 +2,19 @@
  <img src="https://github.com/user-attachments/assets/e511e703-b224-4e29-95d6-988844bd7fcb" alt="Portrait" width="200">  
  
 ## About Me
-I help scientists understand how cells grow and heal tissues by combining computer science, biology, and imaging. My work uses automated software and advanced microscopes to study regeneration, especially in the heart. I share my tools openly to support researchers and students.
+I help biologists and physicians understand cell-based tissue processes. I create tools to quantify advanced microscopy data and train researchers and students to apply these tools in their quantification problem.
 
 ## What I Do
-- Build computer programs that turn microscope images into useful data
-- Help explain how cells work together in healing and forming organs
-- Teach others to use digital tools in biology
+- Build computer programs that turn advanced microscopy images into useful data
+- Teach others to use advanced image analysis tools in biology
 
 ## Current Projects
 - Studying tissue repair in zebrafish to learn about the human heart
 - Creating open-source tools for image analysis and research collaboration
 
 ## Recent Achievements
-- Awarded  University of Bern Initiator Grant
-- Developed publicly available tools making scientific analysis easier
+- University of Bern Initiator Grant 2024
+- Implemented deep learning models in batch processing pipelines
 
 ## Get in Touch
 Explore my open-source projects or connect for collaborations.
