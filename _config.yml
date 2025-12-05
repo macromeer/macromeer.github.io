@@ -1,8 +1,7 @@
 title: Marco Meer
 description: Personal website 
-#theme: jekyll-theme-minimal
-remote_theme: yaoyao-liu/minimal-light   # has auto dark mode
-plugins:
-  - jekyll-remote-theme
-  - jekyll-mermaid
+theme: jekyll-theme-minimal
 gems: [jekyll-mermaid]
+
+sass:
+  sass_dir: assets/css
