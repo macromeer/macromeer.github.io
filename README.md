@@ -1,7 +1,6 @@
 # Marco Meer
  <img src="https://github.com/user-attachments/assets/1df105a9-d533-4044-82e1-81b732c0b1a1" alt="Portrait" width="200">  
-
-
+ 
 ## About Me
 I help biologists and physicians explore how cells organize and repair tissues. My work focuses on developing computational tools that transform advanced microscopy data into quantitative insights. I also train researchers and students to apply these tools to their own biological questions.
 
@@ -20,7 +19,8 @@ I help biologists and physicians explore how cells organize and repair tissues. 
 ## Get in Touch
 Explore my open-source projects or reach out to discuss potential collaborations.
 
+[![Support my work](https://img.shields.io/static/v1?label=Support%20my%20work&message=💖&logo=GitHub&color=%2300C853)](https://github.com/sponsors/macromeer)
 
-| [<img src="https://github.com/user-attachments/assets/3fae71c6-4f58-4361-ac45-f2bbdad0b493" alt="github" width="50"/>](https://github.com/macromeer) | [<img src="https://github.com/user-attachments/assets/a868b63d-37fd-4786-b6f8-7aa7a6d6ef9c" alt="orcid" width="100"/>](https://orcid.org/0000-0003-4501-6121) | [<img width="50" alt="mastodon" src="https://github.com/user-attachments/assets/2a70e7fc-862f-4119-a683-f0ace3651a28" />](https://mastodon.social/@macromare) |  |  |
-|-------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------|-----|-----|
+| [<img src="https://github.com/user-attachments/assets/3fae71c6-4f58-4361-ac45-f2bbdad0b493" alt="github" width="50"/>](https://github.com/macromeer) | [<img src="https://github.com/user-attachments/assets/a868b63d-37fd-4786-b6f8-7aa7a6d6ef9c" alt="orcid" width="100"/>](https://orcid.org/0000-0003-4501-6121) | [<img width="50" alt="mastodon" src="https://github.com/user-attachments/assets/2a70e7fc-862f-4119-a683-f0ace3651a28" />](https://mastodon.social/@macromare) |  
+|-------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------|
 
