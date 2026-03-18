@@ -1,26 +1,31 @@
 # Marco Meer
- <img src="https://github.com/user-attachments/assets/1df105a9-d533-4044-82e1-81b732c0b1a1" alt="Portrait" width="200">  
- 
-## About Me
-I help biologists and physicians explore how cells organize and repair tissues. My work focuses on developing computational tools that transform advanced microscopy data into quantitative insights. I also train researchers and students to apply these tools to their own biological questions.
+## Data Scientist | Research Software Engineer
+ [<img src="https://github.com/user-attachments/assets/0bd336b8-447e-4b7d-a9f6-42786b68ac4c" alt="Portrait" width="200">](https://macromeer.github.io)  <img width="64" height="64" alt="click" src="https://github.com/user-attachments/assets/d478059a-eff9-4da7-9f5a-adc6de797c1c" />
+  [<img src="https://github.com/user-attachments/assets/a868b63d-37fd-4786-b6f8-7aa7a6d6ef9c" alt="orcid" width="100"/>](https://orcid.org/0000-0003-4501-6121)
 
-## What I Do
-- Develop software that converts complex microscopy images into meaningful measurements
-- Guide scientists in using state-of-the-art image analysis methods for their research
 
-## Current Projects
-- Investigating tissue regeneration in zebrafish as a model for human heart repair
-- Building open-source tools to advance image analysis and collaborative research
 
-## Recent Achievements
-- Recipient of the 2024 University of Bern Initiator Grant
-- Integrated deep learning models into large-scale image processing pipelines
+## Summary
+Agile architect of scalable data engineering solutions. Turning data silos into oceans and actionable insights based on FAIR data principles. Proven in bridging the gap between complex data environments and business needs. Guiding teams and AI to research breakthroughs with a physicist’s passion and rigor.
 
-## Get in Touch
-Explore my open-source projects or reach out to discuss potential collaborations.
+## Open-Source Contributions 
+
+- [napari-tmidas](https://github.com/MercaderLabAnatomy/napari-tmidas/) [![Downloads](https://static.pepy.tech/badge/napari-tmidas)](https://pepy.tech/project/napari-tmidas)
+[![GitHub stars](https://img.shields.io/github/stars/MercaderLabAnatomy/napari-tmidas?style=social)](https://github.com/MercaderLabAnatomy/napari-tmidas/)
+
+Modular, open-source platform for deep learning–based microscopy image processing, distributed data handling, and reproducible scientific workflows.
+- [scifig_plot_examples_R](https://github.com/macromeer/scifig_plot_examples_R)  [![GitHub stars](https://img.shields.io/github/stars/macromeer/scifig_plot_examples_R?style=social)](https://github.com/macromeer/scifig_plot_examples_R) 
+
+Publication-ready, reproducible data visualization scripts. 
+- [fosback‑scorecard](https://github.com/macromeer/fosback-scorecard) 
+ [![GitHub stars](https://img.shields.io/github/stars/macromeer/fosback-scorecard?style=social)](https://github.com/macromeer/fosback-scorecard) 
+
+Streamlit web app that implements Norman Fosback’s stock‑market timing framework to give a simple “buy / hold / sell” recommendation for a given stock based on quantitative market‑regime signals. 
+- [Offline Wikipedia RAG](https://github.com/macromeer/offline-wikipedia-rag)  [![GitHub stars](https://img.shields.io/github/stars/macromeer/offline-wikipedia-rag?style=social)](https://github.com/macromeer/offline-wikipedia-rag) 
+
+Fully offline Retrieval-Augmented Generation (RAG) system using local Wikipedia data, ChromaDB or FAISS for semantic retrieval, and Ollama-powered LLMs like Phi-3 for privacy-preserving, context-aware question answering via a Streamlit interface. 
+
 
 [![Support my work](https://img.shields.io/static/v1?label=Support%20my%20work&message=💖&logo=GitHub&color=%2300C853)](https://github.com/sponsors/macromeer)
 
-| [<img src="https://github.com/user-attachments/assets/3fae71c6-4f58-4361-ac45-f2bbdad0b493" alt="github" width="50"/>](https://github.com/macromeer) | [<img src="https://github.com/user-attachments/assets/a868b63d-37fd-4786-b6f8-7aa7a6d6ef9c" alt="orcid" width="100"/>](https://orcid.org/0000-0003-4501-6121) | [<img width="50" alt="mastodon" src="https://github.com/user-attachments/assets/2a70e7fc-862f-4119-a683-f0ace3651a28" />](https://mastodon.social/@macromare) |  
-|-------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------|
 
