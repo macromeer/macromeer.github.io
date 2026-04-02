@@ -1,5 +1,5 @@
 # Marco Meer
-## Computational Scientist | Research Software Engineer
+## PhD ETH | Computational Scientist | Research Software Engineer
  [<img src="https://github.com/user-attachments/assets/6c0fb067-df20-4341-a924-c1648dc6711c" alt="Portrait" width="200">](https://macromeer.github.io)  <img width="64" height="64" alt="click" src="https://github.com/user-attachments/assets/d478059a-eff9-4da7-9f5a-adc6de797c1c" />
   [<img src="https://github.com/user-attachments/assets/a868b63d-37fd-4786-b6f8-7aa7a6d6ef9c" alt="orcid" width="100"/>](https://orcid.org/0000-0003-4501-6121)
 
