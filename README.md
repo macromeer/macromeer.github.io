@@ -4,9 +4,9 @@
 
 Schreib mir: 📧 [marco.meer+io@proton.me](mailto:marco.meer+io@proton.me) und buche ein **kostenloses 15-Min.-Gespräch**.
 
-## Ich bringe Ordnung in dein Datenchaos.
+## Ich baue eine KI, die zu dir passt.
 
-Vom Daten-Wirrwarr zu tieferer Wertschöpfung – schnell und mit smarter KI auf deinem Computer ohne Cloud-Zwang.
+Vom Daten-Wirrwarr zu tieferer Wertschöpfung – auf deinem Computer: Ich baue dir eine massgeschneiderte KI-Lösung, die direkt bei dir läuft — sicher, einfach und auf deinen Alltag zugeschnitten.
 
 **Was ich für dich realisiere:**
 - ✅ **Daten aufräumen** – Strukturierung und erleichterte Zugänglichkeit
@@ -14,18 +14,20 @@ Vom Daten-Wirrwarr zu tieferer Wertschöpfung – schnell und mit smarter KI auf
 - ✅ **Automatisieren** – Lasse Aufgaben automatisch ausführen, du konzentrierst dich dabei aufs Wesentliche
 - ✅ **Beraten** – von der Idee bis zur fertigen Lösung
 
-**Für KMU, Selbstständige und Teams – einfach, praktisch, wirkungsvoll.**
+**Was das für dich bedeutet:**
+- ✅ **Deine Daten bleiben bei dir**
+- ✅ **Keine Abhängigkeit von grossen Online-Diensten**
+- ✅ **Die Lösung passt zu deinen Aufgaben und deinem Arbeitsstil**
+- ✅ **Du sparst Zeit bei wiederkehrenden Arbeiten**
 
-## Warum zu mir?
+**Für Selbstständige, KMU und Teams — einfach, praktisch, wirkungsvoll.**
 
-- **Doktor ETH** – Wissenschafts-Hintergrund, Praxis-Verständnis
-- **Echte Ergebnisse** – keine Experimente, sondern fertige Lösungen
-- **Open Source** – meine Tools sind kostenlos nutzbar und erweiterbar
+## Warum mit mir?
 
-
-
-
-
+- **ETH-Hintergrund** – fundiert, sorgfältig und lösungsorientiert
+- **Praxisnah** – verständliche Lösungen statt komplizierter Technik
+- **Individuell** – keine Standardlösung, sondern passend zu dir
+- **Sicher** – ohne Cloud-Zwang und mit voller Kontrolle über deine Daten
 
 
 ## Meine Erfolge
