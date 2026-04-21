@@ -11,7 +11,7 @@ Vom Daten-Wirrwarr zu tieferer Wertschöpfung – schnell und mit smarter KI auf
 **Was ich für dich realisiere:**
 - ✅ **Daten aufräumen** – Strukturierung und erleichterte Zugänglichkeit
 - ✅ **KI einsetzen** – Dein Computer lernt, mitzudenken und spart dir kostbare Arbeitszeit
-- ✅ **Automatisieren** – Routinejobs laufen automatisch, du konzentrierst dich aufs Wesentliche
+- ✅ **Automatisieren** – Lasse Aufgaben automatisch ausführen, du konzentrierst dich dabei aufs Wesentliche
 - ✅ **Beraten** – von der Idee bis zur fertigen Lösung
 
 **Für KMU, Selbstständige und Teams – einfach, praktisch, wirkungsvoll.**
