@@ -23,7 +23,7 @@ Ich helfe dir, Ordnung in deine Daten und Abläufe zu bringen. Ohne Online-Diens
 
 ## Warum mit mir?
 
-- **Daten- und KI-Spezialist mit ETH-Hintergrund** – fundiert, sorgfältig und lösungsorientiert
+- **[Daten- und KI-Spezialist mit ETH-Hintergrund](https://www.linkedin.com/in/dr-marco-meer/)** – fundiert, sorgfältig und lösungsorientiert
 - **Praxisnah** – verständliche Lösungen statt komplizierter Technik
 - **Individuell** – keine Standardlösung, sondern passend zu dir
 - **Sicher** – ohne Cloud-Zwang und mit voller Kontrolle über deine Daten
