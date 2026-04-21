@@ -14,7 +14,7 @@ Vom Daten-Wirrwarr zur Wertschöpfung – schnell und mit smarter KI auf deinem 
 - ✅ **Automatisieren** – Routinejobs laufen automatisch, du konzentrierst dich aufs Wesentliche
 - ✅ **Beraten** – von der Idee bis zur fertigen Lösung
 
-**Für KMU, Selbständige und Teams – einfach, praktisch, wirkungsvoll.**
+**Für KMU, Selbstständige und Teams – einfach, praktisch, wirkungsvoll.**
 
 ## Warum zu mir?
 
