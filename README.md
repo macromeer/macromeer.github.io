@@ -11,7 +11,7 @@ Ich helfe dir, Ordnung in deine Daten und Abläufe zu bringen. Ohne Online-Diens
 - ✅ **Ordnung in Daten und Alltag bringen** – Strukturierung und erleichtertes Arbeiten
 - ✅ **Texte, Informationen und Aufgaben schneller bearbeiten** – Dein Computer lernt, mitzudenken und spart dir Zeit
 - ✅ **Wiederkehrende Arbeiten automatisieren** – Lasse Aufgaben automatisch ausführen, damit du dich auf das Wesentliche konzentrieren kannst
-- ✅ **Die Lösung so bauen, dass sie zu dir passt** – von der Idee bis zur fertigen Lösung
+- ✅ **Die Lösung so bauen, dass sie zu dir passt** – von der Idee bis zur Umsetzung
 
 **Was das für dich bedeutet:**
 - ✅ Deine Daten bleiben bei dir
