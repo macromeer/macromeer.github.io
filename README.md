@@ -1,6 +1,6 @@
 # Marco Meer
 ## Datenspezialist | KI-Helfer | Digitaler Allrounder
- [<img src="https://github.com/user-attachments/assets/6c0fb067-df20-4341-a924-c1648dc6711c" alt="Portrait" width="200">](https://macromeer.github.io)  
+ [<img src="https://github.com/user-attachments/assets/c8a59a71-9a4a-4d5b-8a93-30cab3ce1cbd" alt="Portrait" width="200">](https://macromeer.github.io)  
 ### Daten-Chaos? 
 Schreib mir: 📧 [marco.meer+io@proton.me](mailto:marco.meer+io@proton.me) und buche ein **kostenloses 15-Min.-Gespräch**.
 
