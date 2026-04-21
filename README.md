@@ -6,7 +6,7 @@ Schreib mir: 📧 [marco.meer+io@proton.me](mailto:marco.meer+io@proton.me) und 
 
 ## Ich bringe Ordnung in dein Datenchaos.
 
-Vom Daten-Wirrwarr zur Wertschöpfung – schnell und mit smarter KI auf deinem Computer.
+Vom Daten-Wirrwarr zu tieferer Wertschöpfung – schnell und mit smarter KI auf deinem Computer ohne Cloud-Zwang.
 
 **Was ich für dich realisiere:**
 - ✅ **Daten aufräumen** – Strukturierung und erleichterte Zugänglichkeit
