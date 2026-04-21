@@ -1,30 +1,29 @@
-# Marco Meer
-## Daten- und KI-Spezialist mit ETH-Ausbildung
+# Marco Meer - Deine eigene KI ohne Cloud
  [<img src="https://github.com/user-attachments/assets/c8a59a71-9a4a-4d5b-8a93-30cab3ce1cbd" alt="Portrait" width="200">](https://macromeer.github.io)  
 
 Schreib mir: 📧 [marco.meer+io@proton.me](mailto:marco.meer+io@proton.me) und buche ein **kostenloses 15-Min.-Gespräch**.
 
 ## Ich baue eine KI, die zu dir passt.
 
-Vom Daten-Wirrwarr zu tieferer Wertschöpfung – auf deinem Computer: Ich baue dir eine massgeschneiderte KI-Lösung, die direkt bei dir läuft — sicher, einfach und auf deinen Alltag zugeschnitten.
+Ich helfe dir, Ordnung in deine Daten und Abläufe zu bringen. Ohne Online-Dienst und Datenabfluss.
 
 **Was ich für dich realisiere:**
-- ✅ **Daten aufräumen** – Strukturierung und erleichterte Zugänglichkeit
-- ✅ **KI einsetzen** – Dein Computer lernt, mitzudenken und spart dir kostbare Arbeitszeit
-- ✅ **Automatisieren** – Lasse Aufgaben automatisch ausführen, du konzentrierst dich dabei aufs Wesentliche
-- ✅ **Beraten** – von der Idee bis zur fertigen Lösung
+- ✅ **Ordnung in Daten und Alltag bringen** – Strukturierung und erleichtertes Arbeiten
+- ✅ **Texte, Informationen und Aufgaben schneller bearbeiten** – Dein Computer lernt, mitzudenken und spart dir Zeit
+- ✅ **Wiederkehrende Arbeiten automatisieren** – Lasse Aufgaben automatisch ausführen, damit du dich auf das Wesentliche konzentrieren kannst
+- ✅ **Die Lösung so bauen, dass sie zu dir passt** – von der Idee bis zur fertigen Lösung
 
 **Was das für dich bedeutet:**
-- ✅ **Deine Daten bleiben bei dir**
-- ✅ **Keine Abhängigkeit von grossen Online-Diensten**
-- ✅ **Die Lösung passt zu deinen Aufgaben und deinem Arbeitsstil**
-- ✅ **Du sparst Zeit bei wiederkehrenden Arbeiten**
+- ✅ Deine Daten bleiben bei dir
+- ✅ Keine Abhängigkeit von grossen Online-Diensten
+- ✅ Die Lösung passt zu deinen Aufgaben und deinem Arbeitsstil
+- ✅ Du sparst Zeit bei wiederkehrenden Arbeiten
 
 **Für Selbstständige, KMU und Teams — einfach, praktisch, wirkungsvoll.**
 
 ## Warum mit mir?
 
-- **ETH-Hintergrund** – fundiert, sorgfältig und lösungsorientiert
+- **Daten- und KI-Spezialist mit ETH-Hintergrund** – fundiert, sorgfältig und lösungsorientiert
 - **Praxisnah** – verständliche Lösungen statt komplizierter Technik
 - **Individuell** – keine Standardlösung, sondern passend zu dir
 - **Sicher** – ohne Cloud-Zwang und mit voller Kontrolle über deine Daten
