@@ -1,13 +1,34 @@
 # Marco Meer
-## PhD ETH | Computational Scientist | Research Software Engineer
+## Datenspezialist | KI-Helfer | Digitaler Allrounder
  [<img src="https://github.com/user-attachments/assets/6c0fb067-df20-4341-a924-c1648dc6711c" alt="Portrait" width="200">](https://macromeer.github.io)  
- 
- [![Email](https://img.shields.io/badge/Email-Contact%20Me-blue?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marco.meer+io@proton.me)
- 
-## Summary
-Agile architect of scalable data engineering solutions. Turning data silos into oceans and actionable insights based on FAIR data principles. Proven in bridging the gap between complex data environments and business needs. Guiding teams and AI to research breakthroughs with a physicist’s passion and rigor.
+### Daten-Chaos? 
+Schreib mir: 📧 [marco.meer+io@proton.me](mailto:marco.meer+io@proton.me) und buche ein **kostenloses 15-Min.-Gespräch**.
 
-## Open-Source Contributions 
+## Ich bringe Ordnung in dein Datenchaos.
+
+Vom Daten-Wirrwarr zur Wertschöpfung – schnell und mit smarter KI auf deinem Computer.
+
+**Was ich für dich realisiere:**
+- ✅ **Daten aufräumen** – Strukturierung und erleichterte Zugänglichkeit
+- ✅ **KI einsetzen** – Dein Computer lernt, mitzudenken und spart dir kostbare Arbeitszeit
+- ✅ **Automatisieren** – Routinejobs laufen automatisch, du konzentrierst dich aufs Wesentliche
+- ✅ **Beraten** – von der Idee bis zur fertigen Lösung
+
+**Für KMU, Selbständige und Teams – einfach, praktisch, wirkungsvoll.**
+
+## Warum zu mir?
+
+- **Doktor ETH** – Wissenschafts-Hintergrund, Praxis-Verständnis
+- **Echte Ergebnisse** – keine Experimente, sondern fertige Lösungen
+- **Open Source** – meine Tools sind kostenlos nutzbar und erweiterbar
+
+
+
+
+
+
+
+## Meine Erfolge
 
 - [napari-tmidas](https://github.com/MercaderLabAnatomy/napari-tmidas/) ![Downloads](https://static.pepy.tech/badge/napari-tmidas)
 ![GitHub stars](https://img.shields.io/github/stars/MercaderLabAnatomy/napari-tmidas?style=social)
