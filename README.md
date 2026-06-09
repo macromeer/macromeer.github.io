@@ -1,6 +1,10 @@
 <p align="left">
   <a href="https://meer.solutions">
-    <img src="assets/meer-solutions-banner.webp" alt="Meer Solutions Banner">
+    <img
+      src="assets/meer-solutions-banner.webp"
+      alt="Meer Solutions Banner"
+      style="width: 100%; height: auto;"
+    >
   </a>
 </p>
 
