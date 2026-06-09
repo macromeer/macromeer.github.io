@@ -1,3 +1,5 @@
+## Software-Support für Privatpersonen und kleine Unternehmen | [Kontakt](#kontakt)
+
 <p align="left">
   <a href="https://meer.solutions">
     <img
@@ -8,31 +10,37 @@
   </a>
 </p>
 
-# Support für **Windows, macOS, Linux, Cloud und KI**
-## Für Privatpersonen und kleine Unternehmen | [Kontakt](#kontakt)
+
+### [Kontakt](#kontakt) | Support für Windows, macOS, Linux, iOS, iPadOS, Android, Cloud-Lösungen, KI-Integration, soziale Medien
 
 ## Leistungen
 
-- Beratung zu individuellen Cloud- und Software-Lösungen
-- Fehlerbehebung bei Betriebssystemen und installierter Software
+- Beratung, Fehlerbehebung, Installation, Konfiguration, Betreuung für [alle Betriebssysteme](#alle-betriebssysteme)
+- Einrichtung und Betreuung von [Cloud-Lösungen](#cloud-lösungen) 
+- KI-Integration in gewohnte Dienste
 - Installation und Konfiguration individueller Software-Lösungen
-- Einrichtung und Betreuung von Cloud-Lösungen
-- Praxis-Workshops und Privatkurse
-- Unterstützung per Remote-Support sowie nach Absprache vor Ort
+- Praxis-Workshops und Privatkurse zur Nutzung von
+  - Smartphone-Apps
+  - [Cloud-Diensten](#cloud-lösungen) 
+  - Messengern (Whatsapp, Telegram, u.A.)
+  - soziale Medien (Instagram, LinkedIn, u.A.)
+  - Videochats (Zoom, Microsoft Teams, u.A.)
+- Support nach Absprache [vor Ort](#standort) oder per Videochat/Messenger/telefonisch | [Kontakt](#kontakt)
 
-## Warum Meer Solutions
+## Warum entscheiden Sie sich für Meer Solutions?
 
-- Persönliche Betreuung
-- Technische Unterstützung für Windows, macOS und Linux, Cloud und KI
+- Persönliche Betreuung ab Handschlag 🤝 | [Kontakt](#kontakt)
+- Technische Unterstützung für [alle Betriebssysteme](#alle-betriebssysteme), [Cloud-Lösungen](#cloud-lösungen) und KI-Integration
 - Verständliche Beratung für Privatkunden und kleine Unternehmen
 
-## Betriebssysteme
-| System | Support |
+## Alle Betriebssysteme
+| Betriebssystem | Support |
 |--|--|
 | Windows | Einrichtung, Fehlerbehebung |
-| macOS, iOS | Einrichtung, Fehlerbehebung |
+| macOS | Einrichtung, Fehlerbehebung |
 | Linux | Beratung, individuelle Lösungen*, Privatkurse, Fehlerbehebung |
-| iOS,iPadOS | Einrichtung, Fehlerbehebung |
+| iOS | Einrichtung, Fehlerbehebung |
+| iPadOS | Einrichtung, Fehlerbehebung |
 | Android | Einrichtung, Fehlerbehebung |
 
 *zum Beispiel alte Geräte wieder flott machen
@@ -65,7 +73,16 @@
 ## Kontakt
 
 [Telefon 076 237 73 50](tel:+41762377350)  
-[marco.meer@proton.me](mailto:marco.meer@proton.me)  
+[meer.solutions@proton.me](mailto:meer.solutions@proton.me)  
+
+## Referenzen
+- Webadmin [sz.grunliberale.ch](https://sz.grunliberale.ch/)
+- Webadmin [pro-buechberg.ch](https://pro-buechberg.ch/)
+- Instruktor [Computeria Ausserschwyz](https://www.computeria-ausserschwyz.ch/)
+- Linux-Sysadmin im Hochschulbereich seit 2020
+
+
+
 
 ## Impressum / AGB
 **meer.solutions**
