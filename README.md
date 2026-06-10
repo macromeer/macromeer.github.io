@@ -1,4 +1,4 @@
-## Software-Support für Privatpersonen und kleine Unternehmen | [Kontakt](#kontakt)
+## Software-Support für Privatpersonen und kleine Unternehmen 
 
 <p align="left">
   <a href="https://meer.solutions">
@@ -11,7 +11,12 @@
 </p>
 
 
-### [Kontakt](#kontakt) | Support für Windows, macOS, Linux, iOS, iPadOS, Android, Cloud-Lösungen, KI-Integration, soziale Medien
+### Windows, macOS, iOS, iPadOS, Android, Linux, Cloud-Lösungen, KI-Integration, soziale Medien
+
+## Kontakt
+
+**[Telefon 076 237 73 50](tel:+41762377350)**  
+[meer.solutions@proton.me](mailto:meer.solutions@proton.me)  
 
 ## Leistungen
 
@@ -70,11 +75,6 @@
 - Support-Office (kein Ladengeschäft) – Termine nach Vereinbarung
 - Vor-Ort-Service möglich im Bezirk March, Bezirk See-Gaster, Bezirk Höfe, Bezirk Einsiedeln, Bezirk Schwyz, Kanton Glarus
 
-## Kontakt
-
-[Telefon 076 237 73 50](tel:+41762377350)  
-[meer.solutions@proton.me](mailto:meer.solutions@proton.me)  
-
 ## Referenzen
 - Webadmin [sz.grunliberale.ch](https://sz.grunliberale.ch/)
 - Webadmin [pro-buechberg.ch](https://pro-buechberg.ch/)
@@ -84,7 +84,104 @@
 
 
 
-## Impressum / AGB
-**meer.solutions**
+## Impressum
 
-Domain-Inhaber, Verantwortlicher Inhalt, Grafik, Gestaltung, Fotos und Programmierung, Copyright ©2026 Dr. sc. ETH Marco Meer
+Dr. sc. ETH Marco Meer    
+Geschäftsbezeichnung: Meer Solutions    
+Mueslihof 2A    
+8856 Tuggen SZ    
+Schweiz    
+
+E-Mail: [meer.solutions@proton.me](mailto:meer.solutions@proton.me)   
+Telefon: [+41 76 237 73 50](tel:+41762377350)   
+
+Verantwortlich für den Inhalt dieser Website:   
+Dr. sc. ETH Marco Meer  
+
+Copyright © 2026 Meer Solutions
+
+## Allgemeine Geschäftsbedingungen (AGB)
+
+1. Geltungsbereich  
+Diese AGB gelten für alle Dienstleistungen von Meer Solutions (Dr. sc. ETH Marco Meer, Tuggen SZ, Schweiz) im Bereich IT-Support, Beratung, Installation, Konfiguration, Cloud-Lösungen und KI-Integration für Privatpersonen und kleine Unternehmen.
+
+2. Vertragsschluss  
+Ein Vertrag entsteht durch schriftliche oder per E-Mail bestätigte Vereinbarung zwischen Ihnen und Meer Solutions. Telefonische Absprachen sind vorbehaltlich der kurzen schriftlichen/E-Mail-Bestätigung bindend.
+
+3. Leistungen  
+Meer Solutions erbringt folgende Leistungen (individuell vereinbart):
+- Beratung und Fehlerbehebung für Betriebssysteme (Windows, macOS, Linux, iOS, iPadOS, Android)
+- Einrichtung und Betreuung von Cloud-Lösungen
+- KI-Integration in gewohnte Dienste
+- Installation und Konfiguration individueller Software-Lösungen
+- Praxis-Workshops und Privatkurse (Smartphone-Apps, Cloud-Dienste, Messengern, soziale Medien, Videochats)
+- Support vor Ort oder per Videochat/Messenger/telefonisch  
+
+Der genaue Leistungsumfang wird im Auftrag bzw. im Beratungsgespräch definiert.
+
+4. Preise und Abrechnung  
+- Preise werden individuell vereinbart (Pauschalpreis, Stundenansatz oder Projektpreis).
+- Der vereinbarte Preis gilt ausschliesslich für die im Auftrag definierten Leistungen.
+- Zusätzliche Leistungen bedürfen einer separaten Vereinbarung.
+- Bei Stundenansatz: Erfasste Arbeitszeit wird nach tatsächlichem Aufwand abgerechnet.
+- Fahrtkosten für Vor-Ort-Service werden gesondert berechnet, sofern nicht ausdrücklich inklusive vereinbart.
+
+5. Zahlungsbedingungen  
+- Zahlung ist ohne Abzug innerhalb von 14 Tagen nach Rechnungsstellung fällig.
+- Bei Überschreitung der Zahlungsfrist sind wir gesetzlich zinspflichtig.
+
+6. Haftung  
+- Wir haften für Schäden, die auf unserer Seite durch Vorsatz oder grobe Fahrlässigkeit verursacht werden.
+- Für Schäden infolge von:
+  - Datenverlust
+  - Fehlerhaften Drittanbieter-Diensten
+  - Unsachgemässen Benutzerhandlungen
+  - technischen Grenzbedingungen alter Geräte
+  haften wir nicht, soweit nicht Vorsatz oder grobe Fahrlässigkeit vorliegt.
+- Die Haftung für leichte Fahrlässigkeit ist auf den typischen, vertraglich erwartbaren Schaden begrenzt.
+- Wir bieten keine Garantie für die Funktionsfähigkeit von Geräten, Software oder Drittanbieter-Diensten nach unserer Unterstützung.
+
+7. Gewährleistung  
+- Für unsere Leistungen gilt eine Gewährleistungsfrist von 30 Tagen bezüglich derselben Fehlerstelle.
+- Innerhalb dieser Frist prüfen wir kostenlos, ob derselbe Fehler erneut auftritt und liegt in unserem Verantwortungsbereich.
+- Gewährleistung gilt nicht für:
+  - nachträglich von Ihnen vorgenommene Änderungen
+  - neue Fehler, die nicht ursächlich mit unserer Leistung zusammenhängen
+  - Probleme durch Drittanbieter-Updates oder Änderungen
+
+8. Vor-Ort-Service  
+- Vor-Ort-Service erfolgt nur nach Terminvereinbarung.
+- Sie stellen uns einen geeigneten Arbeitsplatz sowie Zugang zu den betroffenen Geräten bereit.
+- Sie sind dafür verantwortlich, dass keine rechtswidrigen Inhalte auf den Geräten gespeichert sind.
+
+9. Datensicherheit und Datenschutz  
+- Wir behandeln Ihre Daten gemäss unserer Datenschutzerklärung und dem revDSG.
+- Sie sind verantwortlich für die Aktualität und Rechtmässigkeit der auf Ihren Geräten gespeicherten Daten.
+- Wir empfehlen, vor Support-Massnahmen wichtige Daten separat zu sichern; für Datenverlust haften wir wie in Ziff. 6 geregelt.
+
+10. Vertragsdauer und Kündigung  
+- Der Vertrag endet nach vollständiger Erbringung der vereinbarten Leistungen.
+- Sie können den Vertrag vor vollständiger Erbringung kündigen; bereits erbrachte Leistungen werden abgerechnet.
+
+11. Gerichtsstand und geltendes Recht  
+- Gerichtsstand, soweit gesetzlich zulässig, ist Tuggen SZ, Schweiz
+- Es gilt das Recht der Schweiz.
+
+12. Salvatorische Bestimmung  
+Sollte eine Vereinbarung gegen gesetzliche Bestimmungen verstossen, bleibt die Wirksamkeit der restlichen Vereinbarung unberührt. Die betroffene Bestimmung wird durch eine entsprechende gesetzkonforme Regelung ersetzt.
+
+Stand: Juni 2026  
+Meer Solutions  
+Dr. sc. ETH Marco Meer
+
+## Datenschutzerklärung
+
+Diese Website wird von Meer Solutions betrieben.  
+
+Diese Website verwendet keine Cookies, kein Tracking und keine Analytics-Dienste.  
+
+Beim Aufruf dieser Website werden jedoch aus technischen Gründen personenbezogene Daten durch den Hosting-Anbieter GitHub verarbeitet, insbesondere die IP-Adresse des aufrufenden Geräts. GitHub weist darauf hin, dass beim Besuch einer GitHub-Pages-Website die IP-Adresse der Besucher zu Sicherheitszwecken protokolliert und gespeichert wird.  
+
+Die Verarbeitung erfolgt zum Zweck des sicheren und stabilen Betriebs der Website. Weitere Informationen zur Datenbearbeitung durch GitHub finden Sie in der Datenschutzerklärung von GitHub: [GitHub Privacy Statement](https://docs.github.com/site-policy/privacy-policies/github-privacy-statement).  
+
+Für datenschutzrechtliche Anliegen können Sie uns unter folgender Adresse kontaktieren: [meer.solutions@proton.me](mailto:meer.solutions@proton.me)
