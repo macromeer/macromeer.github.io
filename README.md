@@ -93,8 +93,10 @@ meer.solutions@proton.me
 - Instruktor [Computeria Ausserschwyz](https://www.computeria-ausserschwyz.ch/)
 - Linux-Sysadmin im Hochschulbereich seit 2020
 
+---
 
-
+<details>
+  <summary>Impressum</summary>
 
 ## Impressum
 
@@ -111,6 +113,11 @@ Verantwortlich für den Inhalt dieser Website:
 Dr. sc. ETH Marco Meer  
 
 Copyright © 2026 Meer Solutions
+
+</details>
+
+<details>
+  <summary>Allgemeine Geschäftsbedingungen (AGB)</summary>
 
 ## Allgemeine Geschäftsbedingungen (AGB)
 
@@ -186,6 +193,11 @@ Stand: Juni 2026
 Meer Solutions  
 Dr. sc. ETH Marco Meer
 
+</details>
+
+<details>
+  <summary>Datenschutzerklärung</summary>
+
 ## Datenschutzerklärung
 
 Diese Website wird von Meer Solutions betrieben.  
@@ -197,3 +209,4 @@ Beim Aufruf dieser Website werden jedoch aus technischen Gründen personenbezoge
 Die Verarbeitung erfolgt zum Zweck des sicheren und stabilen Betriebs der Website. Weitere Informationen zur Datenbearbeitung durch GitHub finden Sie in der Datenschutzerklärung von GitHub: [GitHub Privacy Statement](https://docs.github.com/site-policy/privacy-policies/github-privacy-statement).  
 
 Für datenschutzrechtliche Anliegen können Sie uns unter folgender Adresse kontaktieren: [meer.solutions@proton.me](mailto:meer.solutions@proton.me)
+</details>
