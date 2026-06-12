@@ -4,11 +4,11 @@
 
 <!-- Schnellnavigation: horizontale Links über dem Banner -->
 <p style="text-align:center;">
-  <a href="https://github.com/macromeer/macromeer.github.io/blob/main/README.md#-kontakt--direkt-loslegen" style="margin:0 8px; text-decoration:none; color:#000;">📞 Kontakt</a>
-  <a href="https://github.com/macromeer/macromeer.github.io/blob/main/README.md#leistungen" style="margin:0 8px; text-decoration:none; color:#000;">🛠️ Leistungen</a>
-  <a href="https://github.com/macromeer/macromeer.github.io/blob/main/README.md#startpakete" style="margin:0 8px; text-decoration:none; color:#000;">💼 Startpakete</a>
-  <a href="https://github.com/macromeer/macromeer.github.io/blob/main/README.md#support-für-betriebssysteme-und-cloud-lösungen" style="margin:0 8px; text-decoration:none; color:#000;">☁️ Systeme & Cloud</a>
-  <a href="https://github.com/macromeer/macromeer.github.io/blob/main/README.md#standort" style="margin:0 8px; text-decoration:none; color:#000;">📍 Standort</a>
+  <a href="https://meer.solutions#-kontakt--direkt-loslegen" style="margin:0 8px; text-decoration:none; color:#000;">📞 Kontakt</a>
+  <a href="https://meer.solutions#leistungen" style="margin:0 8px; text-decoration:none; color:#000;">🛠️ Leistungen</a>
+  <a href="https://meer.solutions#startpakete" style="margin:0 8px; text-decoration:none; color:#000;">💼 Startpakete</a>
+  <a href="https://meer.solutions#support-für-betriebssysteme-und-cloud-lösungen" style="margin:0 8px; text-decoration:none; color:#000;">☁️ Systeme & Cloud</a>
+  <a href="meer.solutions#standort" style="margin:0 8px; text-decoration:none; color:#000;">📍 Standort</a>
 
 </p>
 
