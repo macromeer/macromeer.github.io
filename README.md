@@ -43,7 +43,7 @@ Vor-Ort-Service im Bezirk March SZ und angrenzend (Bezirke See-Gaster, Höfe, Ei
 | --- | --- | --- | --- |
 | Erstberatung kompakt | Privatkunden, Einzelfirmen | 45 Min. Telefon/Video, Problemaufnahme, Einschätzung, nächste Schritte | CHF 89 |
 | Soforthilfe remote | Privatkunden, Kleinstunternehmen | Bis 60 Min. Fernsupport für akute Probleme | CHF 129 |
-| Einrichtungs-Paket | Privatkunden, Kleinstunternehmen | 90 Min. vor Ort* | CHF 179 |
+| Einrichtungs-Paket | Privatkunden, Kleinstunternehmen | 90 Min. vor Ort | CHF 179 |
 | KMU-Check-in | Kleine Unternehmen | 90 Min. Erstgespräch + Kurzbeurteilung (Geräte, Accounts, Backup, Supportbedarf) | CHF 249 |
 
 ---
@@ -113,7 +113,7 @@ flowchart TB
 ### 📍 Standort & Vor-Ort-Region
 
 - Tuggen SZ, Schweiz (Support-Office, kein Ladengeschäft – Termine nach Vereinbarung)  
-- Vor-Ort: Bezirk March, See-Gaster, Höfe, Einsiedeln, Schwyz, Kanton Glarus  
+- Vor-Ort-Service: Bezirke March, See-Gaster, Höfe, Einsiedeln, Schwyz; Kanton Glarus  
 
 ---
 
