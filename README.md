@@ -28,9 +28,10 @@
 
 **Meer Solutions**  
 Telefon: [076 237 73 50](tel:+41762377350)  
-E-Mail: [meer.solutions@proton.me](mailto:meer.solutions@proton.me)  
+[meer.solutions@proton.me](mailto:meer.solutions@proton.me)  
 
-Vor-Ort-Service im Bezirk March und angrenzend (Bezirke See-Gaster, Höfe, Einsiedeln, Schwyz, Kanton Glarus)  
+> Vor-Ort-Service im Bezirk March und angrenzend  
+(Bezirke See-Gaster, Höfe, Einsiedeln, Schwyz, Kanton Glarus)  
 
 ---
 
@@ -50,7 +51,8 @@ Vor-Ort-Service im Bezirk March und angrenzend (Bezirke See-Gaster, Höfe, Einsi
 <a id="cloud-systeme"></a>
 ### ☁️ Support für Betriebssysteme, Apps, Cloud-Lösungen, KI-Integration
 
-Wir unterstützen Sie bei Fragen rund um Betriebssysteme, Synchronisation, Konten, Backups und Cloud-Dienste – verständlich und ohne Fachjargon.
+Wir unterstützen Sie bei Fragen rund um Betriebssysteme, Synchronisation, Konten, Backups und Cloud-Dienste – 
+verständlich und ohne Fachjargon.
 
 ---
 <a id="leistungen"></a>
@@ -144,11 +146,9 @@ flowchart TB
 <a id="referenzen"></a>
 ### 🧑‍💻 Referenzen
 
-- Sysadmin im Hochschulbereich  
-- Instruktor, Computeria Ausserschwyz  
-- Webadmin (verschiedene Vereine)  
-- Social Media Management (verschiedene Vereine)  
-
+- Systemadministration im Hochschulbereich  
+- Workshops bei Computeria Ausserschwyz  
+- Webseitenadministration und Social Media Management für verschiedene Vereine  
 ---
 
 <details>
