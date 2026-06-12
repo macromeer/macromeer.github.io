@@ -22,7 +22,7 @@
   </a>
 </p>
 
-> **Ich helfe Ihnen schnell, verständlich und persönlich – ab Telefonat oder Videochat, auch vor Ort in Ihrer Region.**
+> **Wir helfen Ihnen schnell, verständlich und persönlich – ab Telefonat oder Videochat, auch vor Ort in Ihrer Region.**
 
 ---
 
