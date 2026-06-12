@@ -89,42 +89,41 @@
   <script src="https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.min.js"></script>
   
   <script>
-    document.addEventListener("DOMContentLoaded", function() {
-      // Configure Mermaid
-      mermaid.initialize({
-        startOnLoad: false,  // We'll manually render after parsing markdown
-        theme: 'default',
-        securityLevel: 'loose'
-      });
-      
-      // Fetch and render the README.md file
-      fetch('README.md')
-        .then(response => response.text())
-        .then(markdown => {
-          // Parse markdown
-          const html = marked.parse(markdown);
-          document.getElementById('content').innerHTML = html;
-          
-          // Find and render all mermaid diagrams
-          const mermaidDivs = document.querySelectorAll('.language-mermaid');
-          mermaidDivs.forEach((element, index) => {
-            // Create a div for mermaid
-            const mermaidDiv = document.createElement('div');
-            mermaidDiv.className = 'mermaid';
-            mermaidDiv.innerHTML = element.textContent;
-            
-            // Replace the pre element with our mermaid div
-            element.parentNode.replaceWith(mermaidDiv);
-          });
-          
-          // Render mermaid diagrams
-          mermaid.init(undefined, '.mermaid');
-        })
-        .catch(error => {
-          console.error('Error loading README.md:', error);
-          document.getElementById('content').innerHTML = '<p>Error loading content. Please check the console for details.</p>';
-        });
+  document.addEventListener("DOMContentLoaded", function() {
+    mermaid.initialize({
+      startOnLoad: false,
+      theme: 'default',
+      securityLevel: 'loose'
     });
-  </script>
+
+    fetch('README.md')
+      .then(response => response.text())
+      .then(markdown => {
+        const html = marked.parse(markdown);
+        document.getElementById('content').innerHTML = html;
+
+        document.querySelectorAll('#content table').forEach((table) => {
+          const wrapper = document.createElement('div');
+          wrapper.className = 'table-wrap';
+          table.parentNode.insertBefore(wrapper, table);
+          wrapper.appendChild(table);
+        });
+
+        const mermaidDivs = document.querySelectorAll('.language-mermaid');
+        mermaidDivs.forEach((element) => {
+          const mermaidDiv = document.createElement('div');
+          mermaidDiv.className = 'mermaid';
+          mermaidDiv.innerHTML = element.textContent;
+          element.parentNode.replaceWith(mermaidDiv);
+        });
+
+        mermaid.init(undefined, '.mermaid');
+      })
+      .catch(error => {
+        console.error('Error loading README.md:', error);
+        document.getElementById('content').innerHTML = '<p>Error loading content. Please check the console for details.</p>';
+      });
+  });
+</script>
 </body>
 </html>
