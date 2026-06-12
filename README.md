@@ -1,24 +1,3 @@
-```mermaid
-flowchart LR
-  A[📞 Kontakt] --- B[🛠️ Leistungen]
-  B --- C[💼 Startpakte]
-  C --- D[☁️ Systeme&Cloud]
-  D --- E[📍 Standort]
-
-  classDef win fill:#C0C0C0,stroke:#000000,stroke-width:2px,color:#000000;
-  class A,B,C,D,E win;
-
-  linkStyle 0 stroke:transparent,stroke-width:0px;
-  linkStyle 1 stroke:transparent,stroke-width:0px;
-  linkStyle 2 stroke:transparent,stroke-width:0px;
-  linkStyle 3 stroke:transparent,stroke-width:0px;
-
-  click A href "./README.md#kontakt" "Zu Kontakt"
-  click B href "./README.md#leistungen" "Zu Leistungen"
-  click C href "./README.md#startpakete" "Zu Startpakete"
-  click D href "./README.md#support-für-alle-betriebssysteme--cloud-lösungen" "Zu Systeme und Cloud"
-  click E href "./README.md#standort" "Zu Standort"
-```
 ## Persönlicher Software-Support für Privatpersonen und kleine Unternehmen 
 
 <p align="left">
