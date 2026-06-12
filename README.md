@@ -24,15 +24,15 @@
 ---
 
 <a id="kontakt"></a>
-### 📞 Kontakt
+### 👥💬 Kontakt
 
 **Meer Solutions**  
-Telefon: [076 237 73 50](tel:+41762377350)  
+Telefon [076 237 73 50](tel:+41762377350)  
 [meer.solutions@proton.me](mailto:meer.solutions@proton.me)  
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=3ba1a5&style=for-the-badge&label=Folge%20uns%20auf&color=3ba1a5&labelColor=#c0c0c0)](https://www.instagram.com/meer.solutions/)
 
-> Vor-Ort-Service im Bezirk March und angrenzend (Bezirke See-Gaster, Höfe, Einsiedeln, Schwyz; Kanton Glarus).
+Vor-Ort-Service im Bezirk March SZ und angrenzend (Bezirke See-Gaster, Höfe, Einsiedeln, Schwyz; Kanton Glarus).
 
 ---
 
@@ -45,8 +45,6 @@ Telefon: [076 237 73 50](tel:+41762377350)
 | Soforthilfe remote | Privatkunden, Kleinstunternehmen | Bis 60 Min. Fernsupport für akute Probleme | CHF 129 |
 | Einrichtungs-Paket | Privatkunden, Kleinstunternehmen | 90 Min. vor Ort* | CHF 179 |
 | KMU-Check-in | Kleine Unternehmen | 90 Min. Erstgespräch + Kurzbeurteilung (Geräte, Accounts, Backup, Supportbedarf) | CHF 249 |
-
-*Vor-Ort-Service möglich in den Bezirken March, See‑Gaster, Höfe, Einsiedeln, Schwyz; Kanton Glarus
 
 ---
 <a id="cloud-systeme"></a>
