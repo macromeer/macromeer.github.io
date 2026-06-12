@@ -120,12 +120,12 @@ Wir unterstützen Sie bei Fragen rund um Betriebssysteme, Synchronisation, Konte
 ### ❓ FAQ – Kurze Fragen direkt
 
 <details>
-  <summary>📞 Wie schnell kann ich anfangen?</summary>
+  <summary>📞 Wie schnell können wir anfangen?</summary>
   <p>Gemäss Absprache oft innerhalb weniger Tage – bei akuten Problemen auch schneller per Soforthilfe remote.</p>
 </details>
 
 <details>
-  <summary>🏠 Kommen Sie auch bei mir vorbei?</summary>
+  <summary>🏠 Kommen wir auch bei Ihnen vorbei?</summary>
   <p>Ja, wenn Sie in einer der genannten Vor-Ort-Regionen wohnen: Bezirk March, See‑Gaster, Höfe, Einsiedeln, Schwyz, Kanton Glarus.</p>
 </details>
 
@@ -135,8 +135,8 @@ Wir unterstützen Sie bei Fragen rund um Betriebssysteme, Synchronisation, Konte
 </details>
 
 <details>
-  <summary>🧩 Ich kenne mich nicht gut aus – können Sie das übernehmen?</summary>
-  <p>Ja, genau dafür bin ich: für persönliche, verständliche Unterstützung, von der Einrichtung bis zum Privatkurs.</p>
+  <summary>🧩 Ich kenne mich nicht gut aus – können sie das übernehmen?</summary>
+  <p>Ja, genau dafür sind wir da: für persönliche, verständliche Unterstützung, von der Einrichtung bis zum Privatkurs.</p>
 </details>
 
 ---
