@@ -36,7 +36,7 @@ Support nach Absprache vor Ort oder per Videochat, Messenger oder telefonisch.
 ## So läuft der Support ab
 
 ```mermaid
-flowchart TD
+flowchart LR
     A[Kontaktaufnahme] --> B[Kurze Einschätzung]
     B --> C{Was wird benötigt?}
     C -->|Beratung| D[Erstberatung zum Pauschalpreis]
@@ -45,6 +45,20 @@ flowchart TD
     D --> G[Empfehlung der nächsten Schritte]
     E --> G
     F --> G
+
+    classDef start fill:#dbeafe,stroke:#1d4ed8,color:#1e3a8a,stroke-width:2px;
+    classDef decision fill:#fef3c7,stroke:#d97706,color:#92400e,stroke-width:2px;
+    classDef consult fill:#dcfce7,stroke:#16a34a,color:#166534,stroke-width:2px;
+    classDef urgent fill:#fee2e2,stroke:#dc2626,color:#991b1b,stroke-width:2px;
+    classDef setup fill:#ede9fe,stroke:#7c3aed,color:#5b21b6,stroke-width:2px;
+    classDef result fill:#ccfbf1,stroke:#0f766e,color:#115e59,stroke-width:2px;
+
+    class A,B start;
+    class C decision;
+    class D consult;
+    class E urgent;
+    class F setup;
+    class G result;
 ```
 
 ## Startpakete
