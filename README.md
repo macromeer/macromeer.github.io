@@ -36,12 +36,13 @@ Support nach Absprache vor Ort oder per Videochat, Messenger oder telefonisch.
 ## So läuft der Support ab
 
 ```mermaid
+%%{init: {'theme': 'base', 'themeVariables': { 'fontSize': '20px' }}}%%
 flowchart LR
-    A[Kontaktaufnahme] --> B[Kurze Einschätzung]
+    A[Kontaktaufnahme] --> B[Ersteinschätzung]
     B --> C{Was wird benötigt?}
     C -->|Beratung| D[Erstberatung zum Pauschalpreis]
-    C -->|Akutes Problem| E[Soforthilfe remote oder vor Ort]
-    C -->|Einrichtung| F[Installation und Konfiguration]
+    C -->|Problembehebung| E[Soforthilfe remote oder vor Ort]
+    C -->|Einrichtung| F[Einrichtung & Konfiguration]
     D --> G[Empfehlung der nächsten Schritte]
     E --> G
     F --> G
