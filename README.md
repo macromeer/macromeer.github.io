@@ -36,26 +36,28 @@ Support nach Absprache vor Ort oder per Videochat, Messenger oder telefonisch.
 ## So läuft der Support ab
 
 ```mermaid
-%%{init: {'theme': 'base', 'themeVariables': { 'fontSize': '40px' }, 'flowchart': { 'nodeSpacing': 35, 'rankSpacing': 45 }}}%%
-flowchart LR
+%%{init: {'theme': 'base', 'themeVariables': { 'fontSize': '30px' }, 'flowchart': { 'nodeSpacing': 20, 'rankSpacing': 25 }}}%%
+flowchart TB
     A[Kontaktaufnahme] --> B[Ersteinschätzung]
     B --> C{Was wird benötigt?}
-    C -->|Beratung| D[Erstberatung zum Pauschalpreis]
-    C -->|Problembehebung| E[Soforthilfe remote oder vor Ort]
-    C -->|Einrichtung| F[Einrichtung & Konfiguration]
-    D --> G[Empfehlung der nächsten Schritte]
+    C --> D[Erstberatung]
+    C --> E[Soforthilfe]
+    C --> F[Einrichtung]
+    D --> G[Nächste Schritte]
     E --> G
     F --> G
 
+    classDef gray fill:#c3c3c3,stroke:#000000,color:#000000,stroke-width:2px;
     classDef blue fill:#0089c0,stroke:#000000,color:#ffffff,stroke-width:2px;
     classDef red fill:#f47e50,stroke:#000000,color:#000000,stroke-width:2px;
     classDef green fill:#6fbc76,stroke:#000000,color:#000000,stroke-width:2px;
     classDef yellow fill:#ffcc00,stroke:#000000,color:#000000,stroke-width:2px;
 
-    class A,G blue;
-    class B,E red;
-    class D,F green;
+    class A,G gray;
     class C yellow;
+    class B,D blue;
+    class E red;
+    class F green;
 ```
 
 ## Startpakete
