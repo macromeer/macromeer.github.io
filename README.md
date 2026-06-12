@@ -19,25 +19,23 @@
   </a>
 </p>
 
-> [!IMPORTANT]
-> **Wir helfen Ihnen schnell, verständlich und persönlich – ab Telefonat oder Videochat, auch vor Ort in Ihrer Region.**
+#### Wir helfen Ihnen schnell, verständlich und persönlich – ab Telefonat oder Videochat, auch vor Ort in Ihrer Region.
 
 ---
 
 <a id="kontakt"></a>
-### 📞 Kontakt – Direkt loslegen
+### 📞 Kontakt
 
 **Meer Solutions**  
 Telefon: [076 237 73 50](tel:+41762377350)  
 E-Mail: [meer.solutions@proton.me](mailto:meer.solutions@proton.me)  
 
-> [!NOTE]
-> Vor-Ort Service im Bezirk March und angrenzend (Bezirke See-Gaster, Höfe, Einsiedeln, Schwyz, Kanton Glarus)  
+Vor-Ort-Service im Bezirk March und angrenzend (Bezirke See-Gaster, Höfe, Einsiedeln, Schwyz, Kanton Glarus)  
 
 ---
 
 <a id="startpakete"></a>
-### 💼 Startpakete – Feste Preise, klare Inhalte
+### 💼 Startpakete
 
 | Paket | Für wen | Inhalt | Pauschalpreis |
 | --- | --- | --- | --- |
@@ -46,13 +44,17 @@ E-Mail: [meer.solutions@proton.me](mailto:meer.solutions@proton.me)
 | Einrichtungs-Paket | Privatkunden, Kleinstunternehmen | 90 Min. vor Ort* | CHF 179 |
 | KMU-Check-in | Kleine Unternehmen | 90 Min. Erstgespräch + Kurzbeurteilung (Geräte, Accounts, Backup, Supportbedarf) | CHF 249 |
 
-> [!NOTE]
-> *Vor-Ort möglich in den Bezirken March, See‑Gaster, Höfe, Einsiedeln, Schwyz, Kanton Glarus
+*Vor-Ort-Service möglich in den Bezirken March, See‑Gaster, Höfe, Einsiedeln, Schwyz, Kanton Glarus
 
 ---
+<a id="cloud-systeme"></a>
+### ☁️ Support für Betriebssysteme, Apps, Cloud-Lösungen, KI-Integration
 
+Wir unterstützen Sie bei Fragen rund um Betriebssysteme, Synchronisation, Konten, Backups und Cloud-Dienste – verständlich und ohne Fachjargon.
+
+---
 <a id="leistungen"></a>
-### 🛠️ Leistungen – Typische Themen
+### 🛠️ Leistungen
 
 | Leistung | Typische Themen | Supportart |
 | --- | --- | --- |
@@ -96,20 +98,13 @@ flowchart TB
 
 ---
 
-<a id="cloud-systeme"></a>
-### ☁️ Support für Betriebssysteme und Cloud-Lösungen
 
-Wir unterstützen Sie bei Fragen rund um Betriebssysteme, Synchronisation, Konten, Backups und Cloud-Dienste – verständlich und ohne Fachjargon.
-
----
 
 <a id="warum"></a>
 ### 🤝 Warum Meer Solutions?
-
-> [!IMPORTANT]
-> - Persönliche Betreuung 
-> - Unterstützung für **alle Betriebssysteme**, Cloud-Lösungen und KI-Integration  
-> - Verständliche Beratung für Privatkunden und kleine Unternehmen  
+- Persönliche Betreuung
+- Unterstützung für **alle Betriebssysteme**, Cloud-Lösungen und KI-Integration
+- Verständliche Beratung für Privatkunden und kleine Unternehmen  
 
 ---
 
