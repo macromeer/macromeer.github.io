@@ -19,6 +19,7 @@
   </a>
 </p>
 
+> [!IMPORTANT]
 > **Wir helfen Ihnen schnell, verständlich und persönlich – ab Telefonat oder Videochat, auch vor Ort in Ihrer Region.**
 
 ---
@@ -43,7 +44,8 @@
 | Einrichtungs-Paket | Privatkunden, Kleinstunternehmen | 90 Min. vor Ort* | CHF 179 |
 | KMU-Check-in | Kleine Unternehmen | 90 Min. Erstgespräch + Kurzbeurteilung (Geräte, Accounts, Backup, Supportbedarf) | CHF 249 |
 
-*Vor-Ort möglich in den Bezirken March, See‑Gaster, Höfe, Einsiedeln, Schwyz, Kanton Glarus
+> [!NOTE]
+> *Vor-Ort möglich in den Bezirken March, See‑Gaster, Höfe, Einsiedeln, Schwyz, Kanton Glarus
 
 ---
 
@@ -95,16 +97,17 @@ flowchart TB
 <a id="cloud-systeme"></a>
 ### ☁️ Support für Betriebssysteme und Cloud-Lösungen
 
-Wir unterstützen Sie bei Fragen rund um Betriebssysteme, Synchronisation, Konten, Backups und Cloud-Dienste – verständlich und ohne Fachchinesisch.
+Wir unterstützen Sie bei Fragen rund um Betriebssysteme, Synchronisation, Konten, Backups und Cloud-Dienste – verständlich und ohne Fachjargon.
 
 ---
 
 <a id="warum"></a>
 ### 🤝 Warum Meer Solutions?
 
-- Persönliche Betreuung 
-- Unterstützung für **alle Betriebssysteme**, Cloud-Lösungen und KI-Integration  
-- Verständliche Beratung für Privatkunden und kleine Unternehmen  
+> [!IMPORTANT]
+> - Persönliche Betreuung 
+> - Unterstützung für **alle Betriebssysteme**, Cloud-Lösungen und KI-Integration  
+> - Verständliche Beratung für Privatkunden und kleine Unternehmen  
 
 ---
 
