@@ -113,7 +113,7 @@ Einrichtung von Datenspeichern im Heimnetzwerk ist ebenfalls möglich.
 - Vor-Ort-Service möglich im Bezirk March, Bezirk See-Gaster, Bezirk Höfe, Bezirk Einsiedeln, Bezirk Schwyz, Kanton Glarus
 
 ## Referenzen
-- Linux-Sysadmin (Hochschulbereich, seit 2020)
+- Sysadmin im Hochschulbereich
 - Instruktor, Computeria Ausserschwyz
 - Webadmin (verschiedene Vereine)
 - Social Media Management (verschiedene Vereine)
