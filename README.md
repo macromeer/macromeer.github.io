@@ -1,15 +1,12 @@
-
-
 ## Persönlicher Software-Support für Privatpersonen und kleine Unternehmen
 
 <!-- Schnellnavigation: horizontale Links über dem Banner -->
 <p style="text-align:center;">
-  <a href="https://meer.solutions#-kontakt--direkt-loslegen" style="margin:0 8px; text-decoration:none; color:#000;">📞 Kontakt</a>
-  <a href="https://meer.solutions#leistungen" style="margin:0 8px; text-decoration:none; color:#000;">🛠️ Leistungen</a>
-  <a href="https://meer.solutions#startpakete" style="margin:0 8px; text-decoration:none; color:#000;">💼 Startpakete</a>
-  <a href="https://meer.solutions#support-für-betriebssysteme-und-cloud-lösungen" style="margin:0 8px; text-decoration:none; color:#000;">☁️ Systeme & Cloud</a>
-  <a href="meer.solutions#standort" style="margin:0 8px; text-decoration:none; color:#000;">📍 Standort</a>
-
+  <a href="#kontakt" style="margin:0 8px; text-decoration:none; color:#000;">📞 Kontakt</a>
+  <a href="#leistungen" style="margin:0 8px; text-decoration:none; color:#000;">🛠️ Leistungen</a>
+  <a href="#startpakete" style="margin:0 8px; text-decoration:none; color:#000;">💼 Startpakete</a>
+  <a href="#cloud-systeme" style="margin:0 8px; text-decoration:none; color:#000;">☁️ Systeme & Cloud</a>
+  <a href="#standort" style="margin:0 8px; text-decoration:none; color:#000;">📍 Standort</a>
 </p>
 
 <p align="left">
@@ -26,6 +23,7 @@
 
 ---
 
+<a id="kontakt"></a>
 ### 📞 Kontakt – Direkt loslegen
 
 **Meer Solutions**  
@@ -35,6 +33,7 @@
 
 ---
 
+<a id="startpakete"></a>
 ### 💼 Startpakete – Feste Preise, klare Inhalte
 
 | Paket | Für wen | Inhalt | Pauschalpreis |
@@ -48,6 +47,7 @@
 
 ---
 
+<a id="leistungen"></a>
 ### 🛠️ Leistungen – Typische Themen
 
 | Leistung | Typische Themen | Supportart |
@@ -62,6 +62,7 @@
 
 ---
 
+<a id="support-ablauf"></a>
 ### 🧭 So läuft der Support ab
 
 ```mermaid
@@ -91,6 +92,14 @@ flowchart TB
 
 ---
 
+<a id="cloud-systeme"></a>
+### ☁️ Support für Betriebssysteme und Cloud-Lösungen
+
+Wir unterstützen Sie bei Fragen rund um Betriebssysteme, Synchronisation, Konten, Backups und Cloud-Dienste – verständlich und ohne Fachchinesisch.
+
+---
+
+<a id="warum"></a>
 ### 🤝 Warum Meer Solutions?
 
 - Persönliche Betreuung 
@@ -99,6 +108,7 @@ flowchart TB
 
 ---
 
+<a id="standort"></a>
 ### 📍 Standort & Vor-Ort-Region
 
 - Tuggen SZ, Schweiz (Support-Office, kein Ladengeschäft – Termine nach Vereinbarung)  
@@ -106,6 +116,7 @@ flowchart TB
 
 ---
 
+<a id="faq"></a>
 ### ❓ FAQ – Kurze Fragen direkt
 
 <details>
@@ -130,6 +141,7 @@ flowchart TB
 
 ---
 
+<a id="referenzen"></a>
 ### 🧑‍💻 Referenzen
 
 - Sysadmin im Hochschulbereich  
@@ -137,7 +149,6 @@ flowchart TB
 - Webadmin (verschiedene Vereine)  
 - Social Media Management (verschiedene Vereine)  
 
----
 ---
 
 <details>
@@ -249,9 +260,9 @@ Diese Website wird von Meer Solutions betrieben.
 
 Diese Website verwendet keine Cookies, kein Tracking und keine Analytics-Dienste.  
 
-Beim Aufruf dieser Website werden jedoch aus technischen Gründen personenbezogene Daten durch den Hosting-Anbieter GitHub verarbeitet, insbesondere die IP-Adresse des aufrufenden Geräts. GitHub weist darauf hin, dass beim Besuch einer GitHub-Pages-Website die IP-Adresse der Besucher zu Sicherheitszwecken protokolliert und gespeichert wird.  
+Beim Aufruf dieser Website werden jedoch aus technischen Gründen personenbezogene Daten durch den Hosting-Anbieter GitHub verarbeitet, insbesondere die IP-Adresse des aufrufenden Geräts. GitHub weist darauf hin, dass beim Besuch einer GitHub-Pages-Website die IP-Adresse der Besucher zu Sicherheitszwecken protokolliert und gespeichert wird. [GitHub Privacy Statement](https://docs.github.com/site-policy/privacy-policies/github-privacy-statement)
 
-Die Verarbeitung erfolgt zum Zweck des sicheren und stabilen Betriebs der Website. Weitere Informationen zur Datenbearbeitung durch GitHub finden Sie in der Datenschutzerklärung von GitHub: [GitHub Privacy Statement](https://docs.github.com/site-policy/privacy-policies/github-privacy-statement).  
+Die Verarbeitung erfolgt zum Zweck des sicheren und stabilen Betriebs der Website.  
 
 Für datenschutzrechtliche Anliegen können Sie uns unter folgender Adresse kontaktieren: [meer.solutions@proton.me](mailto:meer.solutions@proton.me)
 </details>
