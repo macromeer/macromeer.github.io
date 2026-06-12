@@ -50,7 +50,7 @@ Telefon: [076 237 73 50](tel:+41762377350)
 <a id="cloud-systeme"></a>
 ### ☁️ Support für Betriebssysteme, Apps, Cloud-Lösungen, KI-Integration
 
-Wir unterstützen Sie bei Fragen rund um Betriebssysteme, Synchronisation, Konten, Backups und Cloud-Dienste – 
+Wir unterstützen Sie bei Fragen rund um Betriebssysteme, Synchronisation, Konten, Backups und Cloud-Dienste –  
 verständlich und ohne Fachjargon.
 
 ---
