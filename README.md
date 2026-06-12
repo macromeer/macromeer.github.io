@@ -30,6 +30,8 @@
 Telefon: [076 237 73 50](tel:+41762377350)  
 [meer.solutions@proton.me](mailto:meer.solutions@proton.me)  
 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=teal&style=for-the-badge&label=Folge%20uns%20auf&color=teal&labelColor=#c0c0c0)](https://www.instagram.com/meer.solutions/)
+
 > Vor-Ort-Service im Bezirk March und angrenzend (Bezirke See-Gaster, Höfe, Einsiedeln, Schwyz; Kanton Glarus).
 
 ---
