@@ -1,4 +1,16 @@
-## Persönlicher Software-Support für Privatpersonen und kleine Unternehmen 
+
+
+## Persönlicher Software-Support für Privatpersonen und kleine Unternehmen
+
+<!-- Schnellnavigation: horizontale Links über dem Banner -->
+<p style="text-align:center;">
+  <a href="#kontakt" style="margin:0 8px; text-decoration:none; color:#000;">📞 Kontakt</a>
+  <a href="#leistungen" style="margin:0 8px; text-decoration:none; color:#000;">🛠️ Leistungen</a>
+  <a href="#startpakete" style="margin:0 8px; text-decoration:none; color:#000;">💼 Startpakete</a>
+  <a href="#support-für-betriebssysteme-und-cloud-lösungen" style="margin:0 8px; text-decoration:none; color:#000;">☁️ Systeme & Cloud</a>
+  <a href="#standort" style="margin:0 8px; text-decoration:none; color:#000;">📍 Standort</a>
+  <a href="https://meer.solutions" style="margin:0 8px; text-decoration:none; color:#000;">🌐 Website</a>
+</p>
 
 <p align="left">
   <a href="https://meer.solutions">
@@ -10,33 +22,50 @@
   </a>
 </p>
 
+> **Ich helfe Ihnen schnell, verständlich und persönlich – ab Telefonat oder Videochat, auch vor Ort in Ihrer Region.**
 
-### Support für alle Betriebssysteme, Apps, Cloud-Lösungen, KI-Integration, Messenger, soziale Medien
-#### Microsoft Windows, Google Android, Apple iOS/macOS/iPadOS/watchOS, alle Linux-Distributionen 
+---
 
-## Kontakt
-**Meer Solutions**   
-[Telefon 076 237 73 50](tel:+41762377350)  
-meer.solutions@proton.me
+### 📞 Kontakt – Direkt loslegen
 
-## Leistungen
+**Meer Solutions**  
+- Telefon: [076 237 73 50](tel:+41762377350)  
+- E-Mail: [meer.solutions@proton.me](mailto:meer.solutions@proton.me)  
+- Vor-Ort: Bezirk March, See-Gaster, Höfe, Einsiedeln, Schwyz, Kanton Glarus  
+
+---
+
+### 💼 Startpakete – Feste Preise, klare Inhalte
+
+| Paket | Für wen | Inhalt | Pauschalpreis |
+| --- | --- | --- | --- |
+| Erstberatung kompakt | Privatkunden, Einzelfirmen | 45 Min. Telefon/Video, Problemaufnahme, Einschätzung, nächste Schritte | CHF 89 |
+| Soforthilfe remote | Privatkunden, Kleinstunternehmen | Bis 60 Min. Fernsupport für akute Probleme | CHF 129 |
+| Einrichtungs-Paket | Privatkunden, Kleinstunternehmen | 90 Min. vor Ort* | CHF 179 |
+| KMU-Check-in | Kleine Unternehmen | 90 Min. Erstgespräch + Kurzbeurteilung (Geräte, Accounts, Backup, Supportbedarf) | CHF 249 |
+
+*Vor-Ort möglich in den Bezirken March, See‑Gaster, Höfe, Einsiedeln, Schwyz, Kanton Glarus
+
+---
+
+### 🛠️ Leistungen – Typische Themen
 
 | Leistung | Typische Themen | Supportart |
 | --- | --- | --- |
 | Beratung | Gerätewahl, Betriebssysteme, Cloud, Datenschutz, KI-Nutzung | Telefon, Videochat, vor Ort |
-| Fehlerbehebung | PC-Probleme, Smartphone-Probleme, Drucker, E-Mail, Synchronisation | Remote, Telefon, vor Ort |
+| Fehlerbehebung | PC-/Smartphone-Probleme, Drucker, E-Mail, Synchronisation | Remote, Telefon, vor Ort |
 | Installation & Konfiguration | Apps, Betriebssysteme, Updates, Benutzerkonten, Backups | Remote, vor Ort |
 | Cloud-Lösungen | Google Drive, OneDrive, iCloud, Proton Drive, kDrive, myCloud | Beratung, Einrichtung |
-| KI-Integration | KI-Tools in bestehende Arbeitsabläufe einbinden | Beratung, Einrichtung |
-| Privatkurse & Workshops | Smartphone, Messenger, soziale Medien, Videochat, Cloud-Dienste | Vor Ort, Videochat |
+| KI-Integration | KI-Tools in Arbeitsabläufe einbinden | Beratung, Einrichtung |
+| Privatkurse & Workshops | Smartphone, Messenger, soziale Medien, Videochat, Cloud | Vor Ort, Videochat |
 | Individuelle Lösungen | Linux, ältere Geräte, besondere Anforderungen | Nach Absprache |
 
-Support nach Absprache vor Ort oder per Videochat, Messenger oder telefonisch.
+---
 
-## So läuft der Support ab
+### 🧭 So läuft der Support ab
 
 ```mermaid
-%%{init: {'theme': 'base', 'themeVariables': { 'fontSize': '30px' }, 'flowchart': { 'nodeSpacing': 20, 'rankSpacing': 25 }}}%%
+%%{init: {'theme': 'base', 'themeVariables': { 'fontSize': '20px' }, 'flowchart': { 'nodeSpacing': 20, 'rankSpacing': 25 }}}%%
 flowchart TB
     A[Kontaktaufnahme] --> B[Ersteinschätzung]
     B --> C{Was wird benötigt?}
@@ -60,63 +89,55 @@ flowchart TB
     class F green;
 ```
 
-## Startpakete
+---
 
-| Paket                | Für wen                          | Inhalt                                                                                                   | Pauschalpreis   |
-| -------------------- | -------------------------------- | -------------------------------------------------------------------------------------------------------- | ----------- |
-| Erstberatung kompakt | Privatkunden, Einzelfirmen       | 45 Minuten per Telefon oder Video, Problemaufnahme, Soforteinschätzung, Empfehlung der nächsten Schritte | CHF 89   |
-| Soforthilfe remote   | Privatkunden, Kleinstunternehmen | Bis 60 Minuten Fernsupport für akute Probleme        | CHF 129 |
-| Einrichtungs-Paket   | Privatkunden, Kleinstunternehmen | 90 Minuten vor Ort*                       | CHF 179 |
-| KMU-Check-in         | Kleine Unternehmen               | 90 Minuten Erstgespräch plus Kurzbeurteilung von Geräten, Accounts, Backup und Supportbedarf             | CHF 249 |
+### 🤝 Warum Meer Solutions?
 
-*Vor-Ort-Service möglich in den Bezirken March, See-Gaster, Höfe, Einsiedeln, Schwyz und im Kanton Glarus
+- Persönliche Betreuung 
+- Unterstützung für **alle Betriebssysteme**, Cloud-Lösungen und KI-Integration  
+- Verständliche Beratung für Privatkunden und kleine Unternehmen  
 
-## Warum entscheiden Sie sich für Meer Solutions?
+---
 
-- Persönliche Betreuung 🤝 | [Kontakt](#kontakt)
-- Technische Unterstützung für [alle Betriebssysteme](#alle-betriebssysteme), [Cloud-Lösungen](#cloud-lösungen) und KI-Integration
-- Verständliche Beratung für Privatkunden und kleine Unternehmen
+### 📍 Standort & Vor-Ort-Region
 
-## Support für alle Betriebssysteme & Cloud-Lösungen
+- Tuggen SZ, Schweiz (Support-Office, kein Ladengeschäft – Termine nach Vereinbarung)  
+- Vor-Ort: Bezirk March, See-Gaster, Höfe, Einsiedeln, Schwyz, Kanton Glarus  
 
-Cloud-Dienste ermöglichen das Sichern und Teilen von Daten, unterscheiden sich aber bei:
-- Integration in gewohnte Dienste
-- Datenschutz
-- Anwendungsmöglichkeiten
+---
 
-In einem Beratungsgespräch wird die ideale Lösung ermittelt.  
-Einrichtung von Datenspeichern im Heimnetzwerk ist ebenfalls möglich.
+### ❓ FAQ – Kurze Fragen direkt
 
-| Kategorie | Name | Support / Besonderheit |
-| --- | --- | --- |
-| Betriebssystem | Windows | Einrichtung, Fehlerbehebung |
-| Betriebssystem | macOS | Einrichtung, Fehlerbehebung |
-| Betriebssystem | Linux | Beratung, individuelle Lösungen¹, Privatkurse, Fehlerbehebung |
-| Betriebssystem | iOS | Einrichtung, Fehlerbehebung |
-| Betriebssystem | iPadOS | Einrichtung, Fehlerbehebung |
-| Betriebssystem | Android | Einrichtung, Fehlerbehebung |
-| Cloud | Google Drive | Google Workspace |
-| Cloud | Apple iCloud | vorwiegend Fotos und Backups |
-| Cloud | Microsoft OneDrive | Office365 |
-| Cloud | Swisscom myCloud | Datenzentrum in der Schweiz |
-| Cloud | Infomaniak kDrive | kSuite |
-| Cloud | Proton Drive | hoher Datenschutz, Proton Docs/Sheets |
-| Cloud | Tresorit | hoher Datenschutz |
+<details>
+  <summary>📞 Wie schnell kann ich anfangen?</summary>
+  <p>Gemäss Absprache oft innerhalb weniger Tage – bei akuten Problemen auch schneller per Soforthilfe remote.</p>
+</details>
 
-¹ Beispielsweise alte Geräte wieder flott machen.
+<details>
+  <summary>🏠 Kommen Sie auch bei mir vorbei?</summary>
+  <p>Ja, wenn Sie in einer der genannten Vor-Ort-Regionen wohnen: Bezirk March, See‑Gaster, Höfe, Einsiedeln, Schwyz, Kanton Glarus.</p>
+</details>
 
+<details>
+  <summary>🔒 Datenschutz & Sicherheit?</summary>
+  <p>Wir behandeln Ihre Daten gemäss revDSG und empfehlen, vor Support-Massnahmen wichtige Daten separat zu sichern.</p>
+</details>
 
-## Standort
+<details>
+  <summary>🧩 Ich kenne mich nicht gut aus – können Sie das übernehmen?</summary>
+  <p>Ja, genau dafür bin ich: für persönliche, verständliche Unterstützung, von der Einrichtung bis zum Privatkurs.</p>
+</details>
 
-- Tuggen SZ, Schweiz  
-- Support-Office (kein Ladengeschäft) – Termine nach Vereinbarung
-- Vor-Ort-Service möglich im Bezirk March, Bezirk See-Gaster, Bezirk Höfe, Bezirk Einsiedeln, Bezirk Schwyz, Kanton Glarus
+---
 
-## Referenzen
-- Sysadmin im Hochschulbereich
-- Instruktor, Computeria Ausserschwyz
-- Webadmin (verschiedene Vereine)
-- Social Media Management (verschiedene Vereine)
+### 🧑‍💻 Referenzen
+
+- Sysadmin im Hochschulbereich  
+- Instruktor, Computeria Ausserschwyz  
+- Webadmin (verschiedene Vereine)  
+- Social Media Management (verschiedene Vereine)  
+
+---
 ---
 
 <details>
