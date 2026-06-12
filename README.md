@@ -21,17 +21,17 @@ meer.solutions@proton.me
 
 ## Leistungen
 
-- Beratung, Fehlerbehebung, Installation, Konfiguration, Betreuung für [alle Betriebssysteme](#alle-betriebssysteme)
-- Einrichtung und Betreuung von [Cloud-Lösungen](#cloud-lösungen) 
-- KI-Integration in gewohnte Dienste
-- Installation und Konfiguration individueller Software-Lösungen
-- Praxis-Workshops und Privatkurse zur Nutzung von
-  - Smartphone-Apps
-  - [Cloud-Diensten](#cloud-lösungen) 
-  - Messengern (Whatsapp, Telegram, u.A.)
-  - soziale Medien (Instagram, LinkedIn, u.A.)
-  - Videochats (Zoom, Microsoft Teams, u.A.)
-- Support nach Absprache [vor Ort](#standort) oder per Videochat/Messenger/telefonisch | [Kontakt](#kontakt)
+| Leistung | Typische Themen | Supportart |
+| --- | --- | --- |
+| Beratung | Gerätewahl, Betriebssysteme, Cloud, Datenschutz, KI-Nutzung | Telefon, Videochat, vor Ort |
+| Fehlerbehebung | PC-Probleme, Smartphone-Probleme, Drucker, E-Mail, Synchronisation | Remote, Telefon, vor Ort |
+| Installation & Konfiguration | Apps, Betriebssysteme, Updates, Benutzerkonten, Backups | Remote, vor Ort |
+| Cloud-Lösungen | Google Drive, OneDrive, iCloud, Proton Drive, kDrive, myCloud | Beratung, Einrichtung |
+| KI-Integration | KI-Tools in bestehende Arbeitsabläufe einbinden | Beratung, Einrichtung |
+| Privatkurse & Workshops | Smartphone, Messenger, soziale Medien, Videochat, Cloud-Dienste | Vor Ort, Videochat |
+| Individuelle Lösungen | Linux, ältere Geräte, besondere Anforderungen | Nach Absprache |
+
+Support nach Absprache vor Ort oder per Videochat, Messenger oder telefonisch.
 
 ## Startpakete
 
@@ -50,35 +50,33 @@ meer.solutions@proton.me
 - Technische Unterstützung für [alle Betriebssysteme](#alle-betriebssysteme), [Cloud-Lösungen](#cloud-lösungen) und KI-Integration
 - Verständliche Beratung für Privatkunden und kleine Unternehmen
 
-## Alle Betriebssysteme
-| Betriebssystem | Support |
-|--|--|
-| Windows | Einrichtung, Fehlerbehebung |
-| macOS | Einrichtung, Fehlerbehebung |
-| Linux | Beratung, individuelle Lösungen*, Privatkurse, Fehlerbehebung |
-| iOS | Einrichtung, Fehlerbehebung |
-| iPadOS | Einrichtung, Fehlerbehebung |
-| Android | Einrichtung, Fehlerbehebung |
+## Support für alle Betriebssysteme & Cloud-Lösungen
 
-*zum Beispiel alte Geräte wieder flott machen
+Cloud-Dienste ermöglichen das Sichern und Teilen von Daten, unterscheiden sich aber bei:
+- Integration in gewohnte Dienste
+- Datenschutz
+- Anwendungsmöglichkeiten
 
-## Cloud-Lösungen
-- Cloud-Dienste ermöglichen das Sichern und Teilen von Daten, aber unterscheiden sich bei
-  - Integration in gewohnte Dienste
-  - Datenschutz
-  - Anwendungsmöglichkeiten
-- In einem Beratungsgespräch wird die ideale Lösung ermittelt
-- Einrichtung von Datenspeichern im Heimnetzwerk ist ebenfalls möglich
+In einem Beratungsgespräch wird die ideale Lösung ermittelt.  
+Einrichtung von Datenspeichern im Heimnetzwerk ist ebenfalls möglich.
 
-| Cloud-Dienst | Besonderheit |
-| --- | --- |
-| Google Drive | Google Workspace |
-| Apple iCloud | vorwiegend Fotos und Backups |
-| Microsoft OneDrive | Office365 |
-| Swisscom myCloud | Datencenter in der Schweiz |
-| Infomaniak kDrive | kSuite |
-| Proton Drive | hoher Datenschutz, Proton Docs/Sheets |
-| Tresorit | hoher Datenschutz |
+| Kategorie | Name | Support / Besonderheit |
+| --- | --- | --- |
+| Betriebssystem | Windows | Einrichtung, Fehlerbehebung |
+| Betriebssystem | macOS | Einrichtung, Fehlerbehebung |
+| Betriebssystem | Linux | Beratung, individuelle Lösungen¹, Privatkurse, Fehlerbehebung |
+| Betriebssystem | iOS | Einrichtung, Fehlerbehebung |
+| Betriebssystem | iPadOS | Einrichtung, Fehlerbehebung |
+| Betriebssystem | Android | Einrichtung, Fehlerbehebung |
+| Cloud | Google Drive | Google Workspace |
+| Cloud | Apple iCloud | vorwiegend Fotos und Backups |
+| Cloud | Microsoft OneDrive | Office365 |
+| Cloud | Swisscom myCloud | Datenzentrum in der Schweiz |
+| Cloud | Infomaniak kDrive | kSuite |
+| Cloud | Proton Drive | hoher Datenschutz, Proton Docs/Sheets |
+| Cloud | Tresorit | hoher Datenschutz |
+
+¹ Beispielsweise alte Geräte wieder flott machen.
 
 
 ## Standort
