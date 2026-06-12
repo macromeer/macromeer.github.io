@@ -33,6 +33,20 @@ meer.solutions@proton.me
 
 Support nach Absprache vor Ort oder per Videochat, Messenger oder telefonisch.
 
+## So läuft der Support ab
+
+```mermaid
+flowchart TD
+    A[Kontaktaufnahme] --> B[Kurze Einschätzung]
+    B --> C{Was wird benötigt?}
+    C -->|Beratung| D[Erstberatung zum Pauschalpreis]
+    C -->|Akutes Problem| E[Soforthilfe remote oder vor Ort]
+    C -->|Einrichtung| F[Installation und Konfiguration]
+    D --> G[Empfehlung der nächsten Schritte]
+    E --> G
+    F --> G
+```
+
 ## Startpakete
 
 | Paket                | Für wen                          | Inhalt                                                                                                   | Pauschalpreis   |
