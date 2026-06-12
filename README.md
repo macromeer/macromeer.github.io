@@ -1,4 +1,4 @@
-## Software-Support für Privatpersonen und kleine Unternehmen 
+## Persönlicher Software-Support für Privatpersonen und kleine Unternehmen 
 
 <p align="left">
   <a href="https://meer.solutions">
@@ -11,12 +11,13 @@
 </p>
 
 
-### Windows, macOS, iOS, iPadOS, Android, Linux, Cloud-Lösungen, KI-Integration, soziale Medien
+### Support für alle Betriebssysteme, Apps, Cloud-Lösungen, KI-Integration, Messenger, soziale Medien
+#### Microsoft Windows, Google Android, Apple iOS/macOS/iPadOS/watchOS, alle Linux-Distributionen 
 
 ## Kontakt
-
-**[Telefon 076 237 73 50](tel:+41762377350)**  
-[meer.solutions@proton.me](mailto:meer.solutions@proton.me)  
+**Meer Solutions**   
+[Telefon 076 237 73 50](tel:+41762377350)  
+meer.solutions@proton.me
 
 ## Leistungen
 
@@ -31,6 +32,17 @@
   - soziale Medien (Instagram, LinkedIn, u.A.)
   - Videochats (Zoom, Microsoft Teams, u.A.)
 - Support nach Absprache [vor Ort](#standort) oder per Videochat/Messenger/telefonisch | [Kontakt](#kontakt)
+
+## Startpakete
+
+| Paket                | Für wen                          | Inhalt                                                                                                   | Pauschalpreis   |
+| -------------------- | -------------------------------- | -------------------------------------------------------------------------------------------------------- | ----------- |
+| Erstberatung kompakt | Privatkunden, Einzelfirmen       | 45 Minuten per Telefon oder Video, Problemaufnahme, Soforteinschätzung, Empfehlung der nächsten Schritte | CHF 89   |
+| Soforthilfe remote   | Privatkunden, Kleinstunternehmen | Bis 60 Minuten Fernsupport für akute Probleme        | CHF 129 |
+| Einrichtungs-Paket   | Privatkunden, Kleinstunternehmen | 90 Minuten vor Ort*                       | CHF 179 |
+| KMU-Check-in         | Kleine Unternehmen               | 90 Minuten Erstgespräch plus Kurzbeurteilung von Geräten, Accounts, Backup und Supportbedarf             | CHF 249 |
+
+*Vor-Ort-Service möglich in den Bezirken March, See-Gaster, Höfe, Einsiedeln, Schwyz und im Kanton Glarus
 
 ## Warum entscheiden Sie sich für Meer Solutions?
 
