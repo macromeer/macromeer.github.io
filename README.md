@@ -44,7 +44,7 @@ Telefon: [076 237 73 50](tel:+41762377350)
 | Einrichtungs-Paket | Privatkunden, Kleinstunternehmen | 90 Min. vor Ort* | CHF 179 |
 | KMU-Check-in | Kleine Unternehmen | 90 Min. Erstgespräch + Kurzbeurteilung (Geräte, Accounts, Backup, Supportbedarf) | CHF 249 |
 
-*Vor-Ort-Service möglich in den Bezirken March, See‑Gaster, Höfe, Einsiedeln, Schwyz, Kanton Glarus
+*Vor-Ort-Service möglich in den Bezirken March, See‑Gaster, Höfe, Einsiedeln, Schwyz; Kanton Glarus
 
 ---
 <a id="cloud-systeme"></a>
